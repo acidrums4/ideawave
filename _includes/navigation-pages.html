@@ -1,0 +1,9 @@
+<nav role="navigation" aria-label="footer menu">
+	<ul>
+	{% for item in site.data.navigation-pages %}
+		<li>
+			<a {% if page.url == item.link %}class="active"{% endif %} href="{{ item.link }}">{{ item.name }}</a>
+		</li>
+	{% endfor %}
+	</ul>
+</nav>

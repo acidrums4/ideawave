@@ -1,0 +1,19 @@
+<nav role="navigation" aria-label="Primary Menu">
+	<input type="checkbox" id="menu_toggle"/>
+    <label for="menu_toggle">
+		<svg xmlns="http://www.w3.org/2000/svg" aria-label="Menu icon" role="img" viewBox="0 0 20 20">
+			<rect width="20" height="2" x="0" y="3" fill="currentColor"/>
+			<rect width="20" height="2" x="0" y="9" fill="currentColor"/>
+			<rect width="20" height="2" x="0" y="9" fill="currentColor"/>
+			<rect width="20" height="2" x="0" y="15" fill="currentColor"/>
+		</svg>
+		<span>Menu</span>
+	</label>
+	<ul>
+	{% for item in site.data.navigation-conferences %}
+		<li>
+			<a {% if page.url == "/conferences/"item %}class="active"{% endif %} href="/conferences/{{ item }}">{{ item }} Conference</a>
+		</li>
+	{% endfor %}
+	</ul>
+</nav>

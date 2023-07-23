@@ -1,0 +1,9 @@
+- name: About
+  longname: What is IdeaWave?
+  link: /
+- name: Blog
+  longname: Our Blog
+  link: /blog.html
+- name: Contact
+  longname: Contact us
+  link: /contact.html

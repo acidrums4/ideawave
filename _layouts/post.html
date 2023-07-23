@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article>
+	<h1>{{ page.title }}</h1>
+	<div class="blog_post_details">
+		Posted on <strong>{{ page.date | date_to_string: "ordinal", "US" }}</strong> by <strong>{{ page.author }}</strong>
+	</div>
+	{{ content }}
+	<div class="blog_post_details">
+		Posted in <strong>{{ page.categories | sort | join: "</strong>, <strong>" }}</strong>
+		{% if page.tags %} | Tagged <strong>{{ page.tags | sort | join: "</strong>, <strong>" }}</strong>{% endif %}
+	</div>
+</article>
+
