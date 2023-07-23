@@ -1,6 +1,6 @@
-# ideawave
+# Ideawave
 
-Jekyll/HTML/CSS refactor of [ideawave.ca](https://www.ideawave.ca/), [which was done originally in WordPress](https://web.archive.org/web/20210507223400/https://www.ideawave.ca/). Pages and blog posts were brought with a custom Python scrapper using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and converted to Markdown with [html2text](https://pypi.org/project/html2text/).
+Jekyll/HTML/CSS refactor of [ideawave.ca](https://www.ideawave.ca/), [which was done originally in WordPress](https://web.archive.org/web/20210507223400/https://www.ideawave.ca/). Pages and blog posts were brought from the archived version with a custom Python scrapper using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and converted to Markdown with [html2text](https://pypi.org/project/html2text/).
 
 ## Installation
 
@@ -32,15 +32,15 @@ The folder `_posts` stores all blog posts. Each post corresponds to a Markdown f
 
 ### Pages
 
-Standard pages (about, blog, contact) are also written in Markdown and are stored at the root folder. They are listed in `_data/navigation-pages.yml.
+Standard pages (about, blog, contact) are also written in Markdown and are stored at the root folder. They are listed in `_data/navigation-pages.yml`.
 
 ### Conferences
 
-The list of conferences that were held are listed in `_data/navigation-conferences.yml.
+The list of conferences that were held are listed in `_data/navigation-conferences.yml`.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ideawave. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/acidrums4/ideawave. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
 ## Development
 
