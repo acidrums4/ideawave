@@ -2,15 +2,15 @@
 <html lang="en-US">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>{{ page.title }} - IdeaWave</title>
-		<link rel="stylesheet" href="/assets/styles.css" type="text/css" media="all">
+		<title>{{ page.title }} :: IdeaWave</title>
+		<link rel="stylesheet" href="{{ "/assets/styles.css" | absolute_url }}" type="text/css" media="all">
 	</head>
 
 	<body>
 		<!-- Header -->
 		<header role="banner">
 			<a id="logo-link" href="https://www.ideawave.ca/" rel="home" aria-current="page">
-				<img width="851" height="159" src="/assets/img/logo-max.jpg" id="logo-link_img" alt="IdeaWave" srcset="/assets/img/logo-max.jpg 851w,img/logo-min.jpg 300w" sizes="(max-width: 851px) 100vw, 851px">
+				<img width="851" height="159" src="{{ "/assets/img/logo-max.jpg" | absolute_url }}" id="logo-link_img" alt="IdeaWave" srcset="{{ "/assets/img/logo-max.jpg" | absolute_url }} 851w,{{ "img/logo-min.jpg" | absolute_url }} 300w" sizes="(max-width: 851px) 100vw, 851px">
 			</a>
 		</header>
 		<!-- Main menu -->
@@ -26,14 +26,10 @@
 				</div>
 				<div>
 					<h2>Previous events</h2>
-					<ul>
-						<li><a href="/2012-conference">2012 IdeaWave</a></li>
-						<li><a href="/2011-conference">2011 IdeaWave</a></li>
-						<li><a href="/2010-conference">2010 IdeaWave</a></li>
-					</ul>
+					{% include aside-navigation-conferences.html %}
 				</div>
 				<div id="mc_embed_signup">
-					<form action="https://ideawave.us2.list-manage.com/subscribe/post?u=225d97ce940de22bf5dfc424c&amp;id=44bb2de036" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+					<form action="{{ site.mail_list }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 						<label for="mce-EMAIL">Subscribe to our newsletter</label>
 						<fieldset>
 							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
@@ -47,7 +43,7 @@
 		<footer>
 			{% include navigation-pages.html %}
 			{% include social.html %}
-			<div id="copyright">Copyright &copy; 2023 <a href="https://www.ideawave.ca/" title="IdeaWave"><strong>IdeaWave</strong></a>. All Rights Reserved.</div>
+			<div id="copyright">Copyright &copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}" title="IdeaWave"><strong>IdeaWave</strong></a>. All Rights Reserved.</div>
 		</footer>
 	</body>
 </html>

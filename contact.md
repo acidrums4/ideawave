@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Contact
+title: "Contact"
+desc: "Contact us"
+permalink: "/contact.html"
+order: 3
 ---
 
 # Contact

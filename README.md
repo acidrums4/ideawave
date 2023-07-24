@@ -32,11 +32,11 @@ The folder `_posts` stores all blog posts. Each post corresponds to a Markdown f
 
 ### Pages
 
-Standard pages (about, blog, contact) are also written in Markdown and are stored at the root folder. They are listed in `_data/navigation-pages.yml`.
+Standard pages (about, blog, contact) are also written in Markdown and are stored at the root folder, following the Jekyll convention.
 
 ### Conferences
 
-The list of conferences that were held are listed in `_data/navigation-conferences.yml`.
+The pages for the conferences that were held are stored in `_conferences`.
 
 ## Contributing
 

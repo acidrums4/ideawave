@@ -1,7 +1,8 @@
 <ul>
-{% for item in site.data.navigation-pages %}
+{% assign sorted_pages = site.pages | sort: "order" %}
+{% for item in sorted_pages %}
 	<li>
-		<a {% if page.url == item.link %}class="active"{% endif %} href="{{ item.link }}">{{ item.longname }}</a>
+		<a {% if page.url == item.permalink %}class="active"{% endif %} href="{{ item.permalink }}">{{ item.desc }}</a>
 	</li>
 {% endfor %}
 </ul>

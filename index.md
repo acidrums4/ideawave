@@ -1,6 +1,9 @@
 ---
 layout: page
-title: IdeaWave
+title: "About"
+desc: "What is IdeaWave?"
+permalink: "/"
+order: 1
 ---
 
 # About Us

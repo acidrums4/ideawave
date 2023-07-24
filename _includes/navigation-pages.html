@@ -1,8 +1,9 @@
 <nav role="navigation" aria-label="footer menu">
 	<ul>
-	{% for item in site.data.navigation-pages %}
+	{% assign sorted_pages = site.pages | sort: "order" %}
+	{% for item in sorted_pages %}
 		<li>
-			<a {% if page.url == item.link %}class="active"{% endif %} href="{{ item.link }}">{{ item.name }}</a>
+			<a {% if page.url == item.permalink %}class="active"{% endif %} href="{{ item.permalink }}">{{ item.title }}</a>
 		</li>
 	{% endfor %}
 	</ul>

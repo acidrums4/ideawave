@@ -10,9 +10,9 @@
 		<span>Menu</span>
 	</label>
 	<ul>
-	{% for item in site.data.navigation-conferences %}
+	{% for item in site.conferences reversed %}
 		<li>
-			<a {% if page.url == "/conferences/"item %}class="active"{% endif %} href="/conferences/{{ item }}">{{ item }} Conference</a>
+			<a {% if page.url == "/conferences/"item %}class="active"{% endif %} href="/conferences/{{ item.title }}">{{ item.title }} Conference</a>
 		</li>
 	{% endfor %}
 	</ul>

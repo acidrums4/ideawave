@@ -1,0 +1,12 @@
+# Site settings
+mail_list: "https://ideawave.us2.list-manage.com/subscribe/post?u=225d97ce940de22bf5dfc424c&amp;id=44bb2de036"
+
+# Social media
+social:
+  url_facebook: "https://www.facebook.com/IdeaWave"
+  url_twitter: "https://www.twitter.com/IdeaWave_ca"
+  url_rss: "https://www.ideawave.ca/feed/"
+
+# Conferences
+collections:
+  - conferences
