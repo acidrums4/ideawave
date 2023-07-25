@@ -1,7 +1,8 @@
 <ul>
 {% for item in site.conferences reversed %}
 	<li>
-		<a {% if page.url == "/conferences/"item | absolute_url %}class="active"{% endif %} href="{{ "/conferences/" | absolute_url}}{{ item.title }}">{{ item.title }} IdeaWave</a>
+		{% assign pageurl = item.title | prepend: "/conferences/" | append: ".html" %}
+		<a {% if page.url == pageurl %}class="active"{% endif %} href="{{ "/conferences/" | absolute_url}}{{ item.title }}">{{ item.title }} IdeaWave</a>
 	</li>
 {% endfor %}
 </ul>

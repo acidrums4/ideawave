@@ -3,7 +3,7 @@
 	{% assign sorted_pages = site.pages | sort: "order" %}
 	{% for item in sorted_pages %}
 		<li>
-			<a {% if page.url == item.permalink | absolute_url %}class="active"{% endif %} href="{{ item.permalink | absolute_url }}">{{ item.title }}</a>
+			<a {% if page.url == item.permalink %}class="active"{% endif %} href="{{ item.permalink | absolute_url }}">{{ item.title }}</a>
 		</li>
 	{% endfor %}
 	</ul>
