@@ -143,11 +143,15 @@ ol ol ol ol { list-style: lower-alpha }
 ul ul, ol ol, ul ol, ol ul { margin-bottom: 0 }
 
 dl { margin: 0 }
-dd { margin-left: 1em }
 
 dt {
 	margin-top: 1em;
 	font-weight: bold;
+}
+
+dd {
+	margin-left: 1em;
+	font-size: .9em;
 }
 
 strong { font-weight: bold }
@@ -426,9 +430,32 @@ article>h1 {
 	color: #222;
 }
 
-article>p:first-of-type { margin-top: 1em }
+article>h2 {
+	padding: 40px 0 20px;
+	line-height: 1.25;
+	font-size: 22px;
+	font-weight: bold;
+	color: #444;
+}
 
+article>p:first-of-type { margin-top: 1em }
 article>p+p { margin-top: 1em }
+
+article iframe {
+	display: block;
+	margin: 2em auto;
+	width: 100%;
+	aspect-ratio: 16 / 9;
+}
+
+article table {
+	width: 100%;
+	margin: 2em auto;
+	font-size: .9em;
+}
+
+article th { font-weight: bold }
+article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 
 @media screen and (min-width: 320px)
 {

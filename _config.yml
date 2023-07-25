@@ -9,4 +9,5 @@ social:
 
 # Conferences
 collections:
-  - conferences
+  conferences:
+    output: true
