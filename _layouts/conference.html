@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article>
+	<h1>{{ page.title }}</h1>
+	{% for speaker in page.speakers %}
+	<h3>{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}</h3>
+	{% endfor %}
+	{{ content }}
+</article>

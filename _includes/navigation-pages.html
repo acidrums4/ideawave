@@ -1,10 +1,8 @@
+{% assign sorted_pages = site.pages | sort: "order" | where: "dir", "/" | where: "menu", true %}
 <nav role="navigation" aria-label="footer menu">
-	<ul>
-	{% assign sorted_pages = site.pages | sort: "order" %}
-	{% for item in sorted_pages %}
+	<ul>{% for item in sorted_pages %}
 		<li>
-			<a {% if page.url == item.permalink %}class="active"{% endif %} href="{{ item.permalink | absolute_url }}">{{ item.title }}</a>
-		</li>
-	{% endfor %}
+			<a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | absolute_url | remove: ".html" }}">{{ item.title }}</a>
+		</li>{% endfor %}
 	</ul>
 </nav>

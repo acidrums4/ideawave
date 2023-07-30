@@ -1,0 +1,43 @@
+# Site settings
+
+title: "IdeaWave"
+description: "Engaging critical thinkers in Vancouver Island with the goal of fostering innovation, sharing ideas and build relationships."
+permalink: /blog/:year/:month/:day/:title:output_ext
+mail_list: "https://ideawave.us2.list-manage.com/subscribe/post?u=225d97ce940de22bf5dfc424c&amp;id=44bb2de036"
+keywords:
+  - "IdeaWave"
+  - "Vancouver"
+  - "Canada"
+  - "Innovation"
+  - "Ideas"
+
+# Plugins
+
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-feed
+
+# Use pagination
+
+pagination:
+  enabled: true
+  permalink: "/blog/page:num/"
+  indexpage: 'blog'
+  per_page: 10
+  title: " - page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: "true"
+
+# Social media
+
+social:
+  url_facebook: "https://www.facebook.com/IdeaWave"
+  url_twitter: "https://www.twitter.com/IdeaWave_ca"
+  url_rss: "/feed.xml"
+
+# Conferences
+
+collections:
+  conferences:
+    output: true

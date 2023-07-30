@@ -2,7 +2,8 @@
 layout: page
 title: "Contact"
 desc: "Contact us"
-permalink: "/contact.html"
+permalink: "/contact"
+menu: true
 order: 3
 ---
 

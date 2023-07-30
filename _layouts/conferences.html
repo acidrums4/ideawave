@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% assign has_logistics = false %}
+{% assign logfilename = page.title | append: "-logistics.md" %}
+{% for file in site.static_files %}
+{% if file.path contains logfilename %}
+{% assign has_logistics = true %}
+{% endif %}
+{% endfor %}
+
+<article>
+<h1>{{ page.title }} Conference</h1>
+<span><a href="#conference_speakers">Speakers</a>{% if has_logistics %} | <a href="#conference_logistics">Logistics</a>{% endif %}</span>
+{{ content }}
+</article>
+
+<article id="conference_speakers" class="conference_section">{% assign conferencelist = site.conferences | where: "year", page.title %}
+	<h2 id="conferences_speakers">Speakers</h2>
+	<p>Confirmed speakers so far:</p>
+	<dl>{% for conference in conferencelist %}
+		<dt><a href="{{ conference.url }}">{{ conference.title }}</a></dt>{% for speaker in conference.speakers %}
+		<dd>{% if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{% if speaker.url %}</a>{% endif %}</dd>
+	{% endfor %}{% endfor %}</dl>
+</article>
+{% if has_logistics %}
+<article id="conference_logistics" class="conference_section">
+	<h2 id="conferences_logistics">Logistics</h2>
+	{% capture logmarkdown %}{% include_relative {{ logfilename }} %}{% endcapture %}{{ logmarkdown | markdownify }}
+</article>
+{% endif %}

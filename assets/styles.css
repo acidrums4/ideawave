@@ -454,6 +454,7 @@ article table {
 	font-size: .9em;
 }
 
+article table:last-of-type { margin: 2em auto 0 }
 article th { font-weight: bold }
 article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 
@@ -470,9 +471,15 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 	}
 }
 
+/* Conferences */
+
+.conference_section { margin-top: 20px }
+.conference_section>h2 { padding-top: 20px }
+
 /* Blog */
 
 .blog_list { list-style: none }
+.blog_list li+li { margin-top: 20px }
 
 .blog_list h2 {
 	padding: 10px 0 5px;
@@ -492,6 +499,73 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 }
 
 .blog_post_details:last-of-type { margin-bottom: 0 }
+
+.blog_nav {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	margin: 20px auto 0;
+	width: 100%;
+	background: transparent;
+}
+
+.blog_nav a {
+	padding: 0;
+	color: #337ab7;
+}
+
+.blog_nav a:hover {
+	background: transparent;
+	color: #222;
+}
+
+.blog_post_nav {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	margin: 20px auto 0;
+	width: 100%;
+	background: transparent;
+}
+
+.blog_post_nav a {
+	flex: 1 1 50%;
+	padding: 0;
+	font-size: 13px;
+	color: #337ab7;
+}
+
+.blog_post_nav a:hover {
+	background: transparent;
+	text-decoration: underline;
+	color: #222;
+}
+
+.blog_post_nav a:focus {
+	color: #222;
+	text-decoration: underline;
+	background: transparent;
+}
+
+.blog_post_nav a:nth-child(2) { text-align: right }
+
+.blog_post_nav span {
+	display: block;
+	line-height: 1.5;
+}
+
+.blog_post_nav a:hover span,
+.blog_post_nav a:focus span { text-decoration: underline }
+
+.blog_post_nav-nav {
+	margin: 0 0 10px;
+	color: #222;
+}
+
+.blog_post_nav-text {
+	margin: 0;
+	font-weight: bold;
+}
 
 /* Aside */
 

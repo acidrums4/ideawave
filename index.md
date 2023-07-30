@@ -3,6 +3,7 @@ layout: page
 title: "About"
 desc: "What is IdeaWave?"
 permalink: "/"
+menu: true
 order: 1
 ---
 

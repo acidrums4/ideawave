@@ -1,0 +1,17 @@
+---
+layout: "post"
+title: "New video added: Climate Change and Peacebuilding : Saul Arbess, Ph.D."
+author: "cqwww"
+date: "2011-03-03T15:56:05-08:00"
+categories:
+  Video
+tags: 
+  Video
+---
+
+[Climate Change and Peacebuilding : Saul Arbess,
+Ph.D.](https://web.archive.org/web/20210928095832/https://www.ideawave.ca/the-
+conference/climate-change-and-peacebuilding/)
+
+
+[//]: # (Retrieved from https://web.archive.org/web/20210928104204/https://www.ideawave.ca/new-video-added-climate-change-and-peacebuilding-saul-arbess-ph-d/)

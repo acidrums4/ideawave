@@ -1,13 +1,9 @@
 ---
 layout: default
-title: "Blog"
-desc: "Our blog"
-permalink: "/blog.html"
-order: 2
 ---
 
 <ul class="blog_list">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 	<li>
 		<article>
 			<h2>
@@ -25,3 +21,9 @@ order: 2
 	</li>
 {% endfor %}
 </ul>
+{% if paginator.total_pages > 1 %}
+<nav class="blog_nav">
+{% if paginator.next_page %}<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older posts</a>{% endif %}
+{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts &rarr;</a>{% endif %}
+</nav>
+{% endif %}

@@ -9,8 +9,8 @@
 		</svg>
 		<span>Menu</span>
 	</label>
-	<ul>
-	{% for item in site.conferences reversed %}
+	<ul>{% assign sorted_conferences = site.conferences | sort: "order" | where: "layout", "conferences" %}
+	{% for item in sorted_conferences %}
 		<li>
 			{% assign pageurl = item.title | prepend: "/conferences/" | append: ".html" %}
 			<a {% if page.url == pageurl %}class="active"{% endif %} href="{{ "/conferences/" | absolute_url }}{{ item.title }}">{{ item.title }} Conference</a>

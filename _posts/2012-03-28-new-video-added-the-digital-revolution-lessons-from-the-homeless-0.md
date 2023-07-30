@@ -24,6 +24,8 @@ tags:
 As Lorraine ‘raincoaster’ Murphy points out in her talk, there’s a lot of
 opportunity with little barrier to entry in the [Digital Revolution : Lessons
 from the
-homeless](https://web.archive.org/web/20211025073514/https://www.ideawave.ca/2011-conference/the-
+homeless](https://web.archive.org/web/20210507223400/https://www.ideawave.ca/2011-conference/the-
 digital-revolution-lessons-from-the-homeless/)
 
+
+[//]: # (Retrieved from https://web.archive.org/web/20210507232314/https://www.ideawave.ca/new-video-added-the-digital-revolution-lessons-from-the-homeless/)
