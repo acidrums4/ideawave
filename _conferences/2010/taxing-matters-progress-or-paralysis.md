@@ -22,7 +22,7 @@ they fair?
 5 . Questions for the audience
 
 [ Les Atchison C. A.
-](https://web.archive.org/web/20210413191600/http://www.aplaccountants.com/)  
+](http://www.aplaccountants.com/)  
 Chartered accountant – in public practice since 1966 except for 5 1/2 years in
 a fully integrated manufacturing and retail company.  
 Served for 6 years as a director and chair of the audit and finance committe

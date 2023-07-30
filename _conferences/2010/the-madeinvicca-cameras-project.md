@@ -37,14 +37,14 @@ the images and stories from the project and the challenge of engaging the
 public without direct benefit or incentive to participate.
 
 [ Liam McLachlan
-](https://web.archive.org/web/20210413200651/http://www.madeinvic.ca/)  
+](http://www.madeinvic.ca/)  
 I’m 24. I was born and raised in Saskatchewan and I have lived in Victoria for
 almost 6 years. I’m currently a freelance IT consultant focused on open source
 systems for small business.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413200651/https://www.youtube.com/v/jCqo1mbPGhs?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1)
+](https://www.youtube.com/v/jCqo1mbPGhs?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-madeinvic-ca-100-cameras-project)

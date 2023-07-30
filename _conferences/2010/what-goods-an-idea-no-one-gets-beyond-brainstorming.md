@@ -46,7 +46,7 @@ products of any type on the market.”
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413191643/https://www.youtube.com/v/W74HlvHGOXI?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/W74HlvHGOXI?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/what-goods-an-idea-no-one-gets-beyond-brainstorming)

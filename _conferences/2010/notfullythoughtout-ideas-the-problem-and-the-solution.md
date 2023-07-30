@@ -31,7 +31,7 @@ from time to time to feed on its lush intellectual greenery.
 
 
 [ Watch in full screen HD
-](https://web.archive.org/web/20210413202537/https://www.youtube.com/v/RMMx7Pgf3X0?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/RMMx7Pgf3X0?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/not-fully-thought-out-ideas-the-problem-and-the-solution)

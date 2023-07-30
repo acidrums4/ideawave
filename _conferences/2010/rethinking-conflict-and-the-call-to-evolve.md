@@ -26,7 +26,7 @@ becoming a master swordsman/woman in an age where the only outcome of real
 merit is one that ensures everyone comes out a winner.
 
 [ Rachelle
-Lamb](https://web.archive.org/web/20210413200114/http://www.rachellelamb.com/),
+Lamb](http://www.rachellelamb.com/),
 speaker, author and president of Mindful Communication, has offered her
 engaging communication and personal development talks and trainings to
 thousands in both the public and private sectors. Conflict and personal
@@ -43,7 +43,7 @@ her talks.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413200114/https://www.youtube.com/embed/2KGvWVVPPNk?rel=0&amp;hd=1)
+](https://www.youtube.com/embed/2KGvWVVPPNk?rel=0&amp;hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/rethinking-conflict-and-the-call-to-evolve)

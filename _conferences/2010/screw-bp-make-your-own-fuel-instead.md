@@ -34,7 +34,7 @@ opportunities which will unfold over the next century – not engineers or
 consultants, but composters, cleaners, recyclers, janitors and salvagers.
 
 [ Kenji Fuse
-](https://web.archive.org/web/20210413201952/http://islandbiodiesel.ca/) co-
+](http://islandbiodiesel.ca/) co-
 founded the Island Biodiesel Co-op in 2006, and have given talks similar to
 this one at UVIC, the Alix Goolden Hall at the Victoria Conservatory of Music,
 the Moss Street Market, and across Canada and the US. The Island Biodiesel Co-
@@ -46,7 +46,7 @@ enough time cleaning up his messes!
 
 
 [ View in HD
-](https://web.archive.org/web/20210413201952/https://www.youtube.com/v/L_9r6Cjwimc?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/L_9r6Cjwimc?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/screw-bp-make-your-own-fuel-instead)

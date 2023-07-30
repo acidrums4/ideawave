@@ -18,7 +18,7 @@ and community relationships and networks. If you’ve ever wondered why one
 guest can bring a party to life – this talk is for you.
 
 [Janis La
-Couvée](https://web.archive.org/web/20210413185220/https://victoriaconnection.wordpress.com/)
+Couvée](https://victoriaconnection.wordpress.com/)
 is a community builder, passionate about bridging online and offline
 communities to effect positive social change. She is a member of the Social
 Media Club Victoria leadership team and the lead organizer of Twestival
@@ -27,7 +27,7 @@ Theatre and the Quadra Village Day planning committee.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413185220/https://www.youtube.com/v/FVN_8vlds2c?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/FVN_8vlds2c?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/set-theory-and-human-relationships-the-importance-of-one)

@@ -23,13 +23,13 @@ tangible. Touching on: why an idea should be shared with everyone and not be
 kept as a secret.
 
 [ Sasan Aghdasi
-](https://web.archive.org/web/20210413200850/http://www.schoolr.com/) is a web
+](http://www.schoolr.com/) is a web
 entrepreneur with a background in economics. He loves start-ups, has a weird
 fixation on banjos, and really enjoys eating limes.
 
 
 [ View in HD
-](https://web.archive.org/web/20210413200850/https://www.youtube.com/v/LvCzjs-
+](https://www.youtube.com/v/LvCzjs-
 QSbA?fs=1&hl=en_US&rel=0&hd=1)
 
 

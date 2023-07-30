@@ -46,7 +46,7 @@ donations to community causes.
 
 
 [ Play in HD
-](https://web.archive.org/web/20210413203349/https://www.youtube.com/v/NF4BCTJPPXo?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/NF4BCTJPPXo?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/imagine-we-victoria-build-a-chain-of-renewable-energy-products-for-the-energy-market)

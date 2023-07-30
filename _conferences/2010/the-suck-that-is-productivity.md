@@ -23,7 +23,7 @@ specific examples via my own “faux methodology” known as Eventualism, I’ll
 show everyone why productivity, in fact, is a suck.
 
 [Mike
-Vardy](https://web.archive.org/web/20210413200236/http://www.effingthedog.com/)
+Vardy](http://www.effingthedog.com/)
 is a writer/comedian who is the creator of the satirical productivity blog
 Eventualism (started in February 2008). The site demonstrates a Stephen
 Colbert-esque take on the world of productivity and lifehacking, and I have
@@ -36,7 +36,7 @@ world of productivity in the online/print publication Productive! Magazine.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413200236/https://www.youtube.com/v/htUh34ceX_M?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/htUh34ceX_M?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-suck-that-is-productivity)

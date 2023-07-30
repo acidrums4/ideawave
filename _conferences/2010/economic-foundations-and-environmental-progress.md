@@ -6,7 +6,6 @@ speakers:
 - name: "Matthew A. Barker"
 ---
 
-
 The current economic value system is in direct conflict with the progress of
 the environmental movement. The scientific community and most of the public
 are aware of the problems we have today. This is not a barrier, nor is finding
@@ -26,12 +25,11 @@ in labour-saving devices and designed obsolescence. The economy suffers when
 we are healthier, greener, and consume less. The solution is a movement away
 from job dependant monetary circulation to a guaranteed livable income.
 
-**Matthew A. Barker** is a youth entrepreneur who examines economics and
+***
+
+Matthew A. Barker is a youth entrepreneur who examines economics and
 environmental problems from a technological perspective.
 
-
-[ View in full screen HD
-](https://web.archive.org/web/20210413201129/https://www.youtube.com/embed/qYc3petw1rg?rel=0&hd=1)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qYc3petw1rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/economic-foundations-and-environmental-progress)

@@ -37,7 +37,7 @@ know are the fantastic at logistics. Should the new slogan for IT operations
 be “it’s nursing for the future trans-humanists”?
 
 [ Sarah Novotny
-](https://web.archive.org/web/20210413194115/http://sarahnovotny.com/)
+](http://sarahnovotny.com/)
 
 I’m a founding partner of Blue Gecko. I manage and am a senior administrator
 in the Open Databases / LAMP practice. We do remote administration and
@@ -48,7 +48,7 @@ on Opensource and general geeky socializing.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413194115/https://www.youtube.com/v/FTGifAXHVRA?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/FTGifAXHVRA?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/its-nursing-for-the-future-trans-humanists)

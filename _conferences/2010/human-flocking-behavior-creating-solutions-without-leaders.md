@@ -19,7 +19,7 @@ This presentation will use practical examples to explore:
   * using flocking to empower the leading edge of social change movements
 
 [ Galen Bullard, B.Sc.
-](https://web.archive.org/web/20210413195745/http://www.galenbullard.com/)  
+](http://www.galenbullard.com/)  
 My passion for understanding the world led me to earn a Bachelor of Science
 degree at the University of Western Ontario, where I studied the computer
 simulation of flocking behavior with a pioneer in the field. I consulted in
@@ -33,7 +33,7 @@ now work in Victoria as a freelance writer.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413195745/https://www.youtube.com/embed/xxWDUnMHaBM?rel=0&hd=1)
+](https://www.youtube.com/embed/xxWDUnMHaBM?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/human-flocking-behavior-creating-solutions-without-leaders)

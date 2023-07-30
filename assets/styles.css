@@ -129,7 +129,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 hr {
-	background-color: #ccc;
+	background-color: #dbe9f5;
 	border: 0;
 	height: 1px;
 	margin-bottom: 2em;
@@ -439,22 +439,27 @@ article>h2 {
 }
 
 article>p:first-of-type { margin-top: 1em }
+
+article>blockquote,
 article>p+p { margin-top: 1em }
 
-article iframe {
+article>hr { margin: 20px 0 }
+
+article>iframe {
 	display: block;
 	margin: 2em auto;
 	width: 100%;
 	aspect-ratio: 16 / 9;
 }
 
-article table {
+article>table {
 	width: 100%;
 	margin: 2em auto;
 	font-size: .9em;
 }
 
-article table:last-of-type { margin: 2em auto 0 }
+article>iframe:last-of-type,
+article>table:last-of-type { margin: 2em auto 0 }
 article th { font-weight: bold }
 article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 

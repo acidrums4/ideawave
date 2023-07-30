@@ -24,7 +24,7 @@ Inconnu.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413203730/https://www.youtube.com/embed/IaNorVgJZe8?rel=0&hd=1)
+](https://www.youtube.com/embed/IaNorVgJZe8?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/writing-poetry-a-way-into-your-secret-truth)

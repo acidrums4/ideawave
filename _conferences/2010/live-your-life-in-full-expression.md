@@ -17,7 +17,7 @@ our lives, whether it be financial lack, disruption in relationships, health
 concerns, or feelings of discontent, boredom, anxiety, anger or guilt.
 
 [ Christine Yole
-](https://web.archive.org/web/20210413190449/http://www.lifeinfullexpression.com/)
+](http://www.lifeinfullexpression.com/)
 is a Life Coach, with a Bachelors of Science in Human Biology, Health and
 Society and a Masters of Education in Counselling Psychology. She is also a
 certified personal trainer. She loves to explore the subjects of personal
@@ -33,7 +33,7 @@ in turn accessing more feelings of wellbeing, fulfillment and joy.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413190449/https://www.youtube.com/embed/I4GFpekArmE?rel=0&hd=1)
+](https://www.youtube.com/embed/I4GFpekArmE?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/live-your-life-in-full-expression)

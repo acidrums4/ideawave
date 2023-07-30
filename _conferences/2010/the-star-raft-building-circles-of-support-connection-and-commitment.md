@@ -28,7 +28,7 @@ forced to define ourselves and those we love in catastrophic terms in order to
 get essential supports.
 
 [ David Wetherow
-](https://web.archive.org/web/20210413202805/http://www.communityworks.info/)
+](http://www.communityworks.info/)
 brings over 30 years of experience in disability services, person-centered
 planning and personal network development. He and his wife developed the first
 Microboards (there are now over 500 operating in BC), and has supported the

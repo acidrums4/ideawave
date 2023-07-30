@@ -56,7 +56,7 @@ has been accomplished so far and am excited about what is yet to come.
 
 
 [ View in HD
-](https://web.archive.org/web/20210413201835/https://www.youtube.com/v/Z2mMaCy0jQo?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/Z2mMaCy0jQo?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/treatment-for-lymphedema)

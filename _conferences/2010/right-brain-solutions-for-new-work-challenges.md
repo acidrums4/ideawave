@@ -30,7 +30,7 @@ new products; AT&T did this to get new and better consumer products to market
 faster.
 
 [ Dr. William A.
-Gray](https://web.archive.org/web/20210413185135/http://www.mentoring-
+Gray](http://www.mentoring-
 solutions.com/)
 
 My wife and I have been innovators in education and corporate settings for
@@ -51,12 +51,12 @@ created paper products to enhance success, and later converted these into a
 web-based system that manages the entire process (registration and matching
 participants to work together in different ways, online training, monitoring
 activity, evaluating results).[ Our website
-](https://web.archive.org/web/20210413185135/http://www.mentoring-
+](http://www.mentoring-
 solutions.com/) lists “Firsts” we pioneered and continue to do.
 
 
 View in [ full screen HD
-](https://web.archive.org/web/20210413185135/https://www.youtube.com/embed/H7a0adr8x04?rel=0&hd=1)
+](https://www.youtube.com/embed/H7a0adr8x04?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/right-brain-solutions-for-new-work-challenges)

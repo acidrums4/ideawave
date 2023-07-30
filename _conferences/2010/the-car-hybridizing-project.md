@@ -22,11 +22,11 @@ businesses everywhere to make the various components and install them, without
 involving the big corrupt special interests, who are not on our side.
 
 **[Craig
-Carmichael](https://web.archive.org/web/20210413192402/http://www.saers.com/~craig/pmg/TurquoiseEnergyMPMG.html)**
+Carmichael](http://www.saers.com/~craig/pmg/TurquoiseEnergyMPMG.html)**
 
 
 [ View in full screen HD video
-](https://web.archive.org/web/20210413192402/https://www.youtube.com/v/eq_4us3sNOw?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/eq_4us3sNOw?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-car-hybridizing-project)

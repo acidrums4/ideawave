@@ -15,11 +15,11 @@ layout: default
 </article>
 {% if page.previous.url or page.next.url %}
 <nav class="blog_post_nav">
-{% if page.previous.url %}<a href="{{ page.previous.url }}">
+{% if page.previous.url %}<a href="{{ page.previous.url | absolute_url }}">
 	<span class="blog_post_nav-nav">&larr; Previous</span>
 	<span class="blog_post_nav-text">{{ page.previous.title }}</span>
 </a>{% endif %}
-{% if page.next.url %}<a href="{{ page.next.url }}">
+{% if page.next.url %}<a href="{{ page.next.url | absolute_url }}">
 	<span class="blog_post_nav-nav">Next &rarr;</span>
 	<span class="blog_post_nav-text">{{ page.next.title }}</span>
 </a>{% endif %}

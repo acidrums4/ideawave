@@ -20,7 +20,7 @@ layout: default
 	<h2 id="conferences_speakers">Speakers</h2>
 	<p>Confirmed speakers so far:</p>
 	<dl>{% for conference in conferencelist %}
-		<dt><a href="{{ conference.url }}">{{ conference.title }}</a></dt>{% for speaker in conference.speakers %}
+		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>{% for speaker in conference.speakers %}
 		<dd>{% if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{% if speaker.url %}</a>{% endif %}</dd>
 	{% endfor %}{% endfor %}</dl>
 </article>

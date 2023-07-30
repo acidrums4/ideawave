@@ -7,7 +7,6 @@ speakers:
   url: "https://vimeo.com/7675930"
 ---
 
-
 As the flow of information continues to increase in our society, so does the
 importance of psychological balance. The idea of psychological balance may be
 a confusing concept, but the increasing speed of information in our culture
@@ -29,14 +28,14 @@ empowering successful dialogue between apparently opposing views and unleashes
 a revolutionary paradigm for empowering the successful evolution of
 individuals and organizations.
 
-[ Kurt Schmidt
-](https://web.archive.org/web/20210413190221/https://vimeo.com/7675930)is an
-electronics engineering technologist and businessman. For 20 years, he has
-been independently researching the principles and skills of effective and
-efficient communication. He and his wife Laurie have been married for 23 years
-and have five children.
+***
 
-Co-Authors:
+Kurt Schmidt is an electronics engineering technologist and
+businessman. For 20 years, he has been independently researching the
+principles and skills of effective and efficient communication. He and
+his wife Laurie have been married for 23 years and have five children.
+
+## Co-Authors
 
 **Peter Tongue** is a former principal of Victoria’s St. Michael’s University
 School and is a co-founder of the Victoria Conscious Centred Community. He
@@ -49,9 +48,6 @@ Patricia in Boston.
 **Mathew Geddes** is a mathematician with Victoria’s St. Michael’s University
 School.
 
-
-[ View in full screen HD video
-](https://web.archive.org/web/20210413190221/https://www.youtube.com/v/DLspgNIyvDk?fs=1&hl=en_US&rel=0&hd=1)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLspgNIyvDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/dynamic-balance-and-the-psychological-alpha-particle)

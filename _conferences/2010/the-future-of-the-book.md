@@ -25,7 +25,7 @@ research.
 
 
 [ View in HD video
-](https://web.archive.org/web/20210413203151/https://www.youtube.com/v/TP2j5df9vnY?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/TP2j5df9vnY?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-future-of-the-book)

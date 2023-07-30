@@ -38,7 +38,7 @@ Energy Association and resides in Victoria, British Columbia.
 
 
 [ Play in HD
-](https://web.archive.org/web/20210413201755/https://www.youtube.com/v/8VyBZEdOXk0?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/8VyBZEdOXk0?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/how-electric-vehicles-will-save-the-world)

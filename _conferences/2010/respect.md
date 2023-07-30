@@ -17,7 +17,7 @@ of Respect in societies and how it will contribute inresolving ever growing
 conflicts in the world.
 
 [ Dan Bonab
-](https://web.archive.org/web/20210413193626/http://www.adaplex.com/)  
+](http://www.adaplex.com/)  
 I have an undergraduate degree in computer science and a Masters Degree in
 Complex Adaptive Systems from Chalmers University of Technology in Gothenburg,
 Sweden.  
@@ -27,7 +27,7 @@ solving.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413193626/https://www.youtube.com/embed/PbFErRci2bc?rel=0&hd=1)
+](https://www.youtube.com/embed/PbFErRci2bc?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/respect)

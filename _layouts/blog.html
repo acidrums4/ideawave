@@ -7,12 +7,12 @@ layout: default
 	<li>
 		<article>
 			<h2>
-				<a href="{{ post.url }}">{{ post.title }}</a>
+				<a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
 			</h2>
 			<div class="blog_post_details">
 				Posted on <strong>{{ post.date | date_to_string: "ordinal", "US" }}</strong> by <strong>{{ post.author }}</strong>
 			</div>
-			{{ post.excerpt | strip_html }}... <a href="{{ post.url }}">Continue reading &rarr;</a>
+			{{ post.excerpt | strip_html }}... <a href="{{ post.url | absolute_url }}">Continue reading &rarr;</a>
 			<div class="blog_post_details">
 				Posted in <strong>{{ post.categories | sort | join: "</strong>, <strong>" }}</strong>
 				{% if post.tags %} | Tagged <strong>{{ post.tags | sort | join: "</strong>, <strong>" }}</strong>{% endif %}

@@ -26,7 +26,7 @@ shoehorn results into Procrustean parameters to satisfy employers, clients or
 investors at our own expense and ultimately theirs?
 
 [Dorian
-Taylor](https://web.archive.org/web/20210413192951/http://doriantaylor.com/)  
+Taylor](http://doriantaylor.com/)  
 It is said that artists starve, so I chose computers instead. Since I began my
 career in 1999, I’ve done everything from system administration to graphic
 design to writing web apps and big-data business intelligence systems. There

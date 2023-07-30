@@ -36,7 +36,7 @@ details of their health history.
 
 
 [ View in full screen HD video
-](https://web.archive.org/web/20210413185048/https://www.youtube.com/v/Fcbt-
+](https://www.youtube.com/v/Fcbt-
 gyiqoU?fs=1&hl=en_US&rel=0&hd=1)
 
 

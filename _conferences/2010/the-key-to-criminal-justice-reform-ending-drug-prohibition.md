@@ -23,7 +23,7 @@ enforcement resources and ultimately address the serious problem of drug
 addiction in our society.  
 
 [David
-Bratzer](https://web.archive.org/web/20210416140330/http://www.bratzer.net/)
+Bratzer](http://www.bratzer.net/)
 is a member of the board of directors for Law Enforcement Against Prohibition.
 LEAP is an international non-profit organization of current and former cops,
 prosecutors and correctional officers who seek to minimize crime, addiction,
@@ -34,7 +34,7 @@ of their advisory board.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210416140330/https://www.youtube.com/v/zlkdy5Ky3Cg?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/zlkdy5Ky3Cg?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-key-to-criminal-justice-reform-ending-drug-prohibition)

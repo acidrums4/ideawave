@@ -30,7 +30,7 @@ comment about one of these commercials. I think its worth more than an
 exchange of comments and has multiple repercussions, how about you?
 
 [Janice
-Mansfield](https://web.archive.org/web/20210413195011/http://www.realfoodmadeeasy.ca/)
+Mansfield](http://www.realfoodmadeeasy.ca/)
 began Real Food Made Easy, a personal chef and glutenfree baking service after
 working for 18 years in government as an economist. In her business, she
 brings a love of growing and preparing food, with an insatiable desire to
@@ -39,7 +39,7 @@ possible!
 
 
 [ View in HD
-](https://web.archive.org/web/20210413195011/https://www.youtube.com/v/43r8u0kn0rk?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/43r8u0kn0rk?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-cost-of-convenience)

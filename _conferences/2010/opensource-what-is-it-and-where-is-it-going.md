@@ -20,7 +20,7 @@ where the open-source movement is going, and the impacts it will have on the
 way we work, play, and live.
 
 [ Patrick Hayes
-](https://web.archive.org/web/20210413203655/http://www.geomemes.com/) is
+](http://www.geomemes.com/) is
 Chief Technology Officer with GeoMemes Research Inc. He spends his time
 developing free and open-source mapping software. He delights in giving his
 software away and seeing it pop-up in unexpected places like the United
@@ -34,7 +34,7 @@ of his recent focuses.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413203655/https://www.youtube.com/embed/fXSw1vq25ls?rel=0&hd=1)
+](https://www.youtube.com/embed/fXSw1vq25ls?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/open-source-what-is-it-and-where-is-it-going)

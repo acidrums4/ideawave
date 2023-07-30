@@ -15,7 +15,7 @@ just before solar energy became practical. Ian will be discussing this
 history, showing example batteries and showing pictures of the system
 installed in his house.
 
-[ Ian Soutar ](https://web.archive.org/web/20210413184645/http://www.nickel-
+[ Ian Soutar ](http://www.nickel-
 iron-battery.com/) is a mechatronics product designer and founded Microsec
 Research and Development Inc. in 1986. In the early 1980s he developed solar
 thermal products through Norsun Solar in Ottawa and later worked at the
@@ -37,10 +37,10 @@ design. Ian is a beekeeper and is working to discover ways to prevent the
 
 
 [ View video 1 in full screen HD
-](https://web.archive.org/web/20210413184645/https://www.youtube.com/v/dO0-mGrWcjo?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/dO0-mGrWcjo?fs=1&hl=en_US&rel=0&hd=1)
 
 [ View video 2 in full screen HD
-](https://web.archive.org/web/20210413184645/https://www.youtube.com/v/RrGCzYLw7Bs?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/RrGCzYLw7Bs?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/ideal-solar-storage-batteries-invented-in-1902-by-edison-are-rediscovered)

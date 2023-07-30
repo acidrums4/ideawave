@@ -15,14 +15,14 @@ with slides generated with three permanent markers and a couple of hours worth
 of coffee.
 
 [Will Whittaker
-](https://web.archive.org/web/20210413191047/http://sketchfactory.com/) is a
+](http://sketchfactory.com/) is a
 software developer with very little focus, an occasional entrepreneur, and an
 organizer of conferences. Occasionally people even pay him. He serves as an
 example of why you should complete your degree and get a real job.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413191047/https://www.youtube.com/v/GBQMVF7CPuc?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/GBQMVF7CPuc?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-pirate-ship-of-theseus)

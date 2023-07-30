@@ -21,7 +21,7 @@ concerned citizens can help push companies to find a better way forward both
 environmentally and socially.
 
 [ Stephen Whipp
-](https://web.archive.org/web/20210413192152/http://www.stephenwhipp.com/),
+](http://www.stephenwhipp.com/),
 CFP, Senior Financial Advisor
 
 Steve is an activist. He believes passionately that individuals working
@@ -45,7 +45,7 @@ Island Better Business Bureau.
 
 
 [ Play in HD
-](https://web.archive.org/web/20210413192152/https://www.youtube.com/v/1AYyrn1H4Nk?fs=1&hl=en_US&rel=0&hd=1)
+](https://www.youtube.com/v/1AYyrn1H4Nk?fs=1&hl=en_US&rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/keeping-big-business-accountable-to-the-public-through-smart-investing)

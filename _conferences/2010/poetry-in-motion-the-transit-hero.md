@@ -27,7 +27,7 @@ not only external audiences but internal as well – creating a sense of pride
 and commitment to the planet.
 
 [ Robyn Quinn, APR
-](https://web.archive.org/web/20210413202457/http://www.bigbangcommunications.ca/)
+](http://www.bigbangcommunications.ca/)
 has over 15 years experience in both corporate and consulting roles creating
 insightful communications strategies and campaigns for science, technology,
 environment,the military, not-for-profit, entertainment, transportation and
@@ -51,7 +51,7 @@ golf whenever it isn’t raining.
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413202457/https://www.youtube.com/embed/PeLaHgUcQsY?rel=0&hd=1)
+](https://www.youtube.com/embed/PeLaHgUcQsY?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/poetry-in-motion-the-transit-hero)

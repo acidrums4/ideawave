@@ -26,19 +26,19 @@ the food and avoid being cooked herself!
 Also, the design process must be simple and cheap.
 
 [ Brian White
-](https://web.archive.org/web/20210413201051/http://solardesign.ning.com/)
+](http://solardesign.ning.com/)
 trained as a lab technician (applied biology) in Ireland, works as a stone
 mason and invented the pulser pump in the late 1980s which is now being
 researched in Queens University.
 
 More details about the tracking solar accumulator and the clam shaped solar
 cookers can be found on the
-[solarcooking.org](https://web.archive.org/web/20210413201051/http://solarcooking.org/)
+[solarcooking.org](http://solarcooking.org/)
 wiki
 
 
 [ View in full screen HD
-](https://web.archive.org/web/20210413201051/https://www.youtube.com/embed/wLWdRCb5W-g?rel=0&hd=1)
+](https://www.youtube.com/embed/wLWdRCb5W-g?rel=0&hd=1)
 
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/tracking-solar-accumulator-solar-design-t-square-clam-shaped-solar-cookers)

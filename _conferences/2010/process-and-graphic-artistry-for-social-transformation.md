@@ -29,7 +29,7 @@ requisite steps mapped, and lastly, most importantly, the real purpose and
 intent behind the conversation can be made visible and therefore conscious.
 
 [ David
-](https://web.archive.org/web/20210413185914/http://www.artofhosting.org/home/)
+](http://www.artofhosting.org/home/)
 is a steward of the Art Of Hosting Conversations that Matter, a community of
 practice supporting large-scale transformative change initiatives throughout
 the world.  
@@ -37,7 +37,7 @@ He is the former CEO of a Provincial Crown Corporation and current Executive
 Director of Aboriginal Transformation within the BC government.
 
 [ Colleen
-](https://web.archive.org/web/20210413185914/http://www.colleenstevensongraphics.com/)
+](http://www.colleenstevensongraphics.com/)
 works as a graphic recorder and conceptual artist. She has a deep passion grew
 for making complex ideas accessible and infusing work and life with colour,
 metaphor, playfulness and spontaneity. Using simple graphics she records

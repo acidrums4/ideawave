@@ -7,10 +7,10 @@ speakers:
   url: "https://www.leviathansecurity.com/"
 ---
 
-
 Foreign aid with intrinsic value rarely gets to people who need it most. Aid
 with extrinsic value; value created by interacting with creative humans is
 hard to misappropriate.  
+
 Greg Mortenson is building schools in Central Asia, bringing education to
 areas of the world past by modernity. He does it apolitically, with cultural
 sensitivity, and most importantly, he is helping to educate girls. The problem
@@ -26,13 +26,14 @@ with the highest quality hand tools, and make them available to motivated
 people. I want a program run by women. I want the tools to be run as lending
 libraries. I want people to build their own future.
 
-[Frank
-Heidt](https://web.archive.org/web/20210413183439/https://www.leviathansecurity.com/)
-Chief Executive Officer, Leviathan Security Group Inc.  
-Leads Leviathan’s executive management team. As the creator of Leviathan’s
+***
+
+Frank Heidt is Chief Executive Officer at Leviathan Security Group Inc. He
+Leads Leviathan's executive management team. As the creator of Leviathan’s
 innovative business structure, he was responsible for designing Leviathan and
 bringing together security professionals with diverse backgrounds from premier
 consultancies, industries and government agencies.  
+
 Mr. Heidt is a recognized expert in the field of information warfare, network
 security, and systems penetration. Prior to forming Leviathan Mr. Heidt was a
 Managing Security Architect for @stake, heading up their Pacific Northwest
@@ -44,12 +45,10 @@ United States Navy War College and the Naval Post Graduate School Monterey, on
 the subject of defensive information warfare, military computer system
 security, and the catch-all topic MOOTW (Military Operations Other Than War)
 
-
 Frank Heidt is working with National Geographic cinematographer and award
 winning photographer William Thompson to edit his talk with added footage that
 shows progress on this Idea. It will be ready for next year’s IdeaWave where
 Frank will present another idea: this one to impede global warming by
-guerrilla tree planting
-
+guerrilla tree planting.
 
 [//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/changing-the-world-one-tool-at-a-time-intrinsic-worth-vs-extrinsic-value)
