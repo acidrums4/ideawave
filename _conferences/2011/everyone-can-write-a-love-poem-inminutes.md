@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Everyone can write a love poem in 3 minutes"
 year: "2011"
+backup: false
 speakers:
 - name: "Dvora Levin"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/everyone-can-write-a-love-poem-in-3-minutes
+excerpt_separator: "<!--about-->"
 ---
-
 
 Often our ideas about our limitations are not based on any evidence but
 certainly actively limit the possibilities of proving otherwise. Most people
@@ -20,7 +22,9 @@ something romantic they would be proud to share with their loved one b) a
 humourous poem and c) a poem that expressed more hate than love (an option I
 will cover in my introduction).
 
-**Dvora Levin** is a published poet with 2 books: To Bite the Blue Apple and
+<!--about-->
+
+Dvora Levin is a published poet with 2 books: To Bite the Blue Apple and
 Sharav, and a chapbook, This Time In The Land. She is a regular reader at
 Planet Earth Poetry and conducts poetry writing workshops with leaders, people
 of the street and sex workers. Before becoming a management consultant for the
@@ -31,6 +35,3 @@ working in the field of conflict resolution with Palestinians and Israelis.
 Her volunteer roles include President and Cemetery Director for Congregation
 Emanu-el, Victoria’s Synagogue. Currently, she service on the Board of Theatre
 Inconnu.
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/everyone-can-write-a-love-poem-in-3-minutes)

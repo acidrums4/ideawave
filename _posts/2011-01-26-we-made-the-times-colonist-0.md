@@ -7,7 +7,7 @@ categories:
   Media attention
 tags: 
   Media attention
-  "#yyj"
+  '#yyj'
   media
   newspaper
   Times Colonist

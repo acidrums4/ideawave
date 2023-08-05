@@ -9,7 +9,7 @@ categories:
 tags: 
   Announcement
   Conference speaker
-  "#yyj"
+  '#yyj'
   activism
   central
   collaboration

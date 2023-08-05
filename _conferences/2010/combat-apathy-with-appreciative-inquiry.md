@@ -2,15 +2,20 @@
 layout: "conference"
 title: "Combat Apathy with Appreciative Inquiry"
 year: "2010"
+backup: false
 speakers:
 - name: "Melissa Pelto, MA"
   url: "http://www.sixdegreescommunications.com/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/combat-apathy-with-appreciative-inquiry
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/J6blz5vU9OU
 ---
 
 Is your organization spending 80% of your resources trying to fix the 20% that
 is causing problems? Why not switch embrace a new paradigm that will transform
 your approach organizational change and increase engagement by looking at what
-is going right in the organization &mdash; building on &ldquo;what’s going well&rdquo;.  
+is going right in the organization --- building on “what’s going well”.  
 
 Since organizations are products of human interaction, this talk offers an
 opportunity to transform your life or your organization, and learn about a new
@@ -28,7 +33,3 @@ five core processes: Choosing the positive as the focus of inquiry, Inquiry
 into stories of life force, locates themes that appear in the stories,
 generates shares images of the future and finds new and innovative ways to
 create that future.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J6blz5vU9OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/combat-apathy-with-appreciative-inquiry)

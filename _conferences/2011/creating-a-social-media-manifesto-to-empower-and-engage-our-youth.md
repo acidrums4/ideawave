@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Creating a social media manifesto to empower and engage our youth"
 year: "2011"
+backup: false
 speakers:
 - name: "Beth Campbell Duke"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/creating-a-social-media-manifesto-to-empower-and-engage-our-youth
+excerpt_separator: "<!--about-->"
 ---
-
 
 By their very nature, institutions are slow to react to changes in the
 culture. This can be positive when protecting a culture from changes that are
@@ -21,7 +23,9 @@ pundit Brian Solis, and educational psychologist Howard Gardner to provide a
 foundation for further discussions on creating a “Social Media Manifesto to
 Empower and Engage our Youth”.
 
-**Beth Campbell Duke** : Before launching CampbellDuke Personal Branding, Beth
+<!--about-->
+
+Before launching CampbellDuke Personal Branding, Beth
 worked for a decade in the biotech sector, where she spent a significant
 amount of her volunteer time tutoring adult literacy, working with the
 regional science fair, and coordinating volunteers for the 24-Hour Relay for
@@ -34,5 +38,3 @@ redesign and implementation of a Career and Academic Readiness program for at-
 risk youth, re-engaging them in their own education by focusing on their
 strengths and showing them that they could be successful in school and life.
 
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/creating-a-social-media-manifesto-to-empower-and-engage-our-youth)

@@ -34,6 +34,7 @@ pagination:
 social:
   url_facebook: "https://www.facebook.com/IdeaWave"
   url_twitter: "https://www.twitter.com/IdeaWave_ca"
+  url_youtube: "https://www.youtube.com/@ideawavevideos"
   url_rss: "/feed.xml"
 
 # Conferences

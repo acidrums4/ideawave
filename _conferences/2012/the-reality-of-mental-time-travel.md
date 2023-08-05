@@ -2,10 +2,12 @@
 layout: "conference"
 title: "The Reality of Mental Time Travel"
 year: "2012"
+backup: false
 speakers:
 - name: "Anthony Hamilton"
+from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/the-reality-of-mental-timetravel
+excerpt_separator: "<!--about-->"
 ---
-
 
 Psychologists at Harvard University are using fMRI (Functional Magnetic
 Resonance Imaging) technology, to enable them to look into the brain as we are
@@ -19,7 +21,9 @@ Its practice is not only the source of personal evolution, happiness and peace
 of mind. It is also the key to solving the problems facing society in the
 twenty-first century.
 
-Bio: Anthony Hamilton is a former professor of communication at Capilano
+<!--about-->
+
+Anthony Hamilton is a former professor of communication at Capilano
 University in North Vancouver, BC, Canada. He is internationally known as the
 author of “Mind, Time and Power! — using your inner time machine to heal your
 past, transform your present and create your future. He is also co-author of
@@ -28,6 +32,3 @@ internationally known trainer and business consultant Brian Tracy. He
 considers it his life mission to awaken people to the reality of mental time
 travel and the necessity of gaining some expertise in using this vitally
 important aspect of consciousness.
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/the-reality-of-mental-timetravel)

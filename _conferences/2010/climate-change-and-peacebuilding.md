@@ -2,9 +2,14 @@
 layout: "conference"
 title: "Climate Change and Peacebuilding"
 year: "2010"
+backup: false
 speakers:
 - name: "Saul Arbess, Ph.D."
   url: "http://www.departmentofpeace.ca/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/climate-change-and-peacebuilding
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/M6ziDK1pg2I
 ---
 
 There is a growing realization and a sense of urgency, in both governments and
@@ -21,10 +26,10 @@ seen as an outcome, rather than as a dynamic variable that conditions and
 helps determine that outcome. This talk will consider the importance of
 peacebuilding in addressing climate change.
 
-***
+<!--about-->
 
-Saul Arbess, Ph.D. is a Cultural anthropologist and futurist dedicated
-to building a new architecture of peace in Canada and Canada in the world.
+Cultural anthropologist and futurist dedicated to building a new architecture
+of peace in Canada and Canada in the world.  
 
 National Co-chair, Canadian Department of Peace Initiative (CDPI), working in
 concert with other countries including the US, the UK, Australia, Japan and
@@ -36,7 +41,3 @@ representing 35 country initiatives and three countries with Ministries of
 Peace; Chair, Global Alliance Leadership Council  
 Member, National Board, Council of Canadians (2000-2005)  
 Victoria Chapter President (1996-2004)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6ziDK1pg2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/climate-change-and-peacebuilding)

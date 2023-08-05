@@ -2,9 +2,14 @@
 layout: "conference"
 title: "Dynamic Balance and the Psychological Alpha Particle"
 year: "2010"
+backup: false
 speakers:
 - name: "Kurt Schmidt"
   url: "https://vimeo.com/7675930"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/dynamic-balance-and-the-psychological-alpha-particle
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/DLspgNIyvDk
 ---
 
 As the flow of information continues to increase in our society, so does the
@@ -28,14 +33,14 @@ empowering successful dialogue between apparently opposing views and unleashes
 a revolutionary paradigm for empowering the successful evolution of
 individuals and organizations.
 
-***
+<!--about-->
 
-Kurt Schmidt is an electronics engineering technologist and
-businessman. For 20 years, he has been independently researching the
-principles and skills of effective and efficient communication. He and
-his wife Laurie have been married for 23 years and have five children.
+Kurt Schmidt is an electronics engineering technologist and businessman. For 20 years, he has
+been independently researching the principles and skills of effective and
+efficient communication. He and his wife Laurie have been married for 23 years
+and have five children.
 
-## Co-Authors
+Co-Authors:
 
 **Peter Tongue** is a former principal of Victoria’s St. Michael’s University
 School and is a co-founder of the Victoria Conscious Centred Community. He
@@ -47,7 +52,3 @@ Patricia in Boston.
 
 **Mathew Geddes** is a mathematician with Victoria’s St. Michael’s University
 School.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DLspgNIyvDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/dynamic-balance-and-the-psychological-alpha-particle)

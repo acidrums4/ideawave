@@ -2,11 +2,15 @@
 layout: "conference"
 title: "The Madeinvic.ca 100 Cameras Project"
 year: "2010"
+backup: false
 speakers:
 - name: "Liam McLachlan"
   url: "http://www.madeinvic.ca/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-madeinvic-ca-100-cameras-project
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/jCqo1mbPGhs
 ---
-
 
 I created the madeinvic.ca 100 Cameras project. The project’s first conception
 came from months, and years, of listening to complaints, self-deprecating
@@ -36,15 +40,8 @@ images created and the discussion around them. I would like to share some of
 the images and stories from the project and the challenge of engaging the
 public without direct benefit or incentive to participate.
 
-[ Liam McLachlan
-](http://www.madeinvic.ca/)  
-I’m 24. I was born and raised in Saskatchewan and I have lived in Victoria for
+<!--about-->
+
+> I’m 24. I was born and raised in Saskatchewan and I have lived in Victoria for
 almost 6 years. I’m currently a freelance IT consultant focused on open source
 systems for small business.
-
-
-[ View in full screen HD
-](https://www.youtube.com/v/jCqo1mbPGhs?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-madeinvic-ca-100-cameras-project)

@@ -10,6 +10,7 @@
 		<meta http-equiv='pragma' content='no-cache'>
 		<link rel="stylesheet" href="{{ "/assets/styles.css" | absolute_url }}" type="text/css" media="all">
 		<link type="application/atom+xml" rel="alternate" href="{{ site.social.url_rss | prepend: site.url }}" title="{{ site.title }}" />
+		<script src="{{ "/assets/simple-jekyll-search.min.js" | absolute_url }}"></script>
 	</head>
 
 	<body>
@@ -23,33 +24,35 @@
 		{% include navigation-conferences.html %}
 		<!-- Main content -->
 		<main>
+			{% include search.html %}
 			<section>
 				{{ content }}
 			</section>
-			<aside>
-				<div>
-					{% include aside-navigation-pages.html %}
-				</div>
-				<div>
-					<h2>Previous events</h2>
-					{% include aside-navigation-conferences.html %}
-				</div>
-				<div id="mc_embed_signup">
-					<form action="{{ site.mail_list }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-						<label for="mce-EMAIL">Subscribe to our newsletter</label>
-						<fieldset>
-							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
-							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-						</fieldset>
-					</form>
-				</div>
-			</aside>
+			<nav>
+				{% include aside-navigation-pages.html %}
+			</nav>
+			<nav>
+				<h2>Previous events</h2>
+				{% include aside-navigation-conferences.html %}
+			</nav>
 		</main>
+		{% include navigation-pages.html %}
 		<!-- Footer -->
 		<footer>
-			{% include navigation-pages.html %}
 			{% include social.html %}
-			<div id="copyright">Copyright &copy; {{ 'now' | date: '%Y' }} <a href="{{ site.url }}" title="IdeaWave"><strong>IdeaWave</strong></a>. All Rights Reserved.</div>
+			<div id="copyright">Copyright &copy; {{ 'now' | date: '%Y' }} <strong>IdeaWave</strong>. All Rights Reserved.</div>
+			<div id="meta">Coded with love <a href="https://miler.codeberg.page/" target="_blank" rel="noopener noreferrer">at 2800 meters above sea level</a></div>
 		</footer>
 	</body>
+	<script>
+		window.simpleJekyllSearch = new SimpleJekyllSearch({
+			searchInput: document.getElementById('search_input'),
+			resultsContainer: document.getElementById('search_results_container'),
+			json: '{{ "/assets/search.json" | absolute_url }}',
+			searchResultTemplate: '<li class="search_result-{type}"><a href="{{ site.url }}{url}">{title}</a><span>{meta}</span></li>',
+			noResultsText: '<strong>No results found.</strong>',
+			limit: 10,
+			fuzzy: false,
+		})
+	</script>
 </html>

@@ -2,18 +2,21 @@
 layout: "conference"
 title: "The Victoria Open Wifi project"
 year: "2011"
+backup: false
 speakers:
 - name: "Liam McLachlan"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/the-victoria-open-wifi-project
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/6pqfWgqdX08
 ---
 
-
-The [Victoria City Wide WiFi
-Project](https://web.archive.org/web/20210307001955/http://openwifi.ca/) is
-working to create open, free-to-use wireless connectivity through out the
-Greater Victoria Area creating a [wireless mesh
-network](https://web.archive.org/web/20210307001955/https://en.wikipedia.org/wiki/Wireless_mesh_network)
-embeded in the community. A wireless mesh network is a self healing, self
-growing form of computer networking made up of wireless access devices.
+The [Victoria City Wide WiFi Project](http://openwifi.ca/)
+is working to create open, free-to-use wireless connectivity
+through out the Greater Victoria Area creating a [wireless mesh
+network](https://en.wikipedia.org/wiki/Wireless_mesh_network) embeded in
+the community. A wireless mesh network is a self healing, self growing
+form of computer networking made up of wireless access devices.
 
 We are working with local business and government to create, launch, and
 operate the network.
@@ -31,10 +34,8 @@ open, free to use public network could provide basic access to internet and
 the web to even the playing field through access to information and services
 online.
 
-My name is **Liam McLachlan**. I do IT support services in the greater
+<!--about-->
+
+> My name is Liam McLachlan. I do IT support services in the greater
 Victoria area. I have a passion for technologies that enable people, and that
 create value beyond the basic application of that technology.
-
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/the-victoria-open-wifi-project)

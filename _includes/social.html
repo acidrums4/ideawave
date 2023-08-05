@@ -17,8 +17,17 @@
 			</svg>
 		</a>
 	</li>
+	<li id="social-youtube">
+		<a href="{{ site.social.url_youtube }}" title="YouTube">
+			<svg xmlns="http://www.w3.org/2000/svg" aria-label="YouTube" role="img" viewBox="0 0 512 512">
+				<title>YouTube</title>
+				<rect width="512" height="512" rx="50" ry="50" fill="currentColor"/>
+				<path fill="#fff" d="m427,169c-4-15-17-27-32-31-34-9-239-10-278,0-15,4-28,16-32,31-9,38-10,135 0,174 4,15 17,27 32,31 36,10 241,10 278,0 15-4 28-16 32-31 9-36 9-137 0-174zm-207,140v-106l93,53z"/>
+			</svg>
+		</a>
+	</li>
 	<li id="social-rss">
-		<a href="{{ site.social.url_rss | prepend: site.url }}" title="RSS Feed">
+		<a href="{{ site.social.url_rss | absollute_url }}" title="RSS Feed">
 			<svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512">
 				<title>RSS Feed</title>
 				<rect width="512" height="512" rx="50" ry="50" fill="currentColor"/>

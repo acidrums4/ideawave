@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Writing your life: Why stories matter"
 year: "2011"
+backup: false
 speakers:
 - name: "Yasuko Thanh"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/writing-your-life-why-stories-matter
+excerpt_separator: "<!--about-->"
 ---
-
 
 We are the only species in the world who defines itself through the telling of
 stories, in words and music, through art and dance. Our lives are a journey
@@ -19,7 +21,9 @@ introduce ten simple thoughts, almost like mantras, to illustrate my point.
 They will serve to show how stories can matter when we are trying to make
 sense of our lives.
 
-**Yasuko Thanh** has lived in Mexico, Germany, and Latin America. Her stories
+<!--about-->
+
+Yasuko Thanh has lived in Mexico, Germany, and Latin America. Her stories
 have been published in numerous literary magazines, including Prairie Fire,
 Descant, Fireweed, The Fiddlehead, and PRISM international. In addition to
 fiction, her nonfiction has appeared in publications as diverse as SPEAK,
@@ -29,6 +33,3 @@ collection of short fiction to be published by McClelland & Stewart. She is a
 member of UVic’s writing department, where she is a teaching assistant for a
 fine arts course called Creative Being. She is currently at work on a novel,
 and her master’s thesis.
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/writing-your-life-why-stories-matter)

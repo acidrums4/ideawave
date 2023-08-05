@@ -2,10 +2,14 @@
 layout: "conference"
 title: "Humanity’s suicide intervention"
 year: "2011"
+backup: false
 speakers:
 - name: "Robert Charles Radford"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/humanitys-suicide-intervention
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/aVMmznEmheQ
 ---
-
 
 While working on a Crisis Line in the East Kootenays, Robert learned to offer
 a suicidal person an option for the future which the person may not have
@@ -24,17 +28,12 @@ important communication ability, which all of us have, and asks us to choose
 to stop being bullied into denying the existence of this ability and to use it
 to help create peace, happiness and fulfillment in our lives.
 
-**Robert Charles Radford** has been an honours graduate in Electrical
+<!--about-->
+
+Robert Charles Radford has been an honours graduate in Electrical
 Engineering from Queen’s University, a commissioned officer and airplane pilot
 in the navy reserve, a design and applications engineer in telecommunications,
 a manager of support services in nuclear-electric generation, a purchasing
 director in a 636-bed hospital, a church organist and teaching elder, an actor
 and singer in live theatre, and the father of six children. He lives with his
 wife in Maple Bay, BC.
-
-
-[Back to 2011
-conference](https://web.archive.org/web/20210306231211/https://www.ideawave.ca/2011-conference/#speakers)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/humanitys-suicide-intervention)

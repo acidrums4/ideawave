@@ -1,0 +1,25 @@
+---
+layout: none
+---
+[
+  {% for conference in site.conferences %}
+  {% if conference.year != nil %}
+    { {% capture speakers %}{% for speaker in conference.speakers %}{{ speaker.name }}{% endfor %}{% endcapture %}
+      "title"    : "{{ conference.title | escape }}",
+      "meta" : "{{ speakers | join: ', ' }}",
+      "date"     : "{{ conference.date | date-to_string: 'ordinal', 'US' }}",
+      "type"     : "conference"
+    },
+  {% endif %}
+  {% endfor %}
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "meta"     : "{{ post.date | date_to_string: 'ordinal', 'US' }}",
+      "type"     : "post"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

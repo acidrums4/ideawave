@@ -3,27 +3,49 @@ layout: default
 ---
 
 {% assign has_logistics = false %}
+{% assign has_sponsors = false %}
 {% assign logfilename = page.title | append: "-logistics.md" %}
+{% assign sponsorfilename = page.title | append: "-sponsors.md" %}
 {% for file in site.static_files %}
 {% if file.path contains logfilename %}
 {% assign has_logistics = true %}
+{% endif %}
+{% if file.path contains sponsorfilename %}
+{% assign has_sponsors = true %}
 {% endif %}
 {% endfor %}
 
 <article>
 <h1>{{ page.title }} Conference</h1>
-<span><a href="#conference_speakers">Speakers</a>{% if has_logistics %} | <a href="#conference_logistics">Logistics</a>{% endif %}</span>
+<span>{% if has_sponsors %}<a href="#conference_sponsors">Sponsors</a> | {% endif %}<a href="#conference_speakers">Speakers</a>{% if has_logistics %} | <a href="#conference_logistics">Logistics</a>{% endif %}</span>
 {{ content }}
 </article>
 
-<article id="conference_speakers" class="conference_section">{% assign conferencelist = site.conferences | where: "year", page.title %}
+{% if has_sponsors %}
+<article id="conference_sponsors" class="conference_section">
+	<h2 id="conferences_sponsors">Sponsors</h2>
+	{% capture sponsorsmarkdown %}{% include_relative {{ sponsorfilename }} %}{% endcapture %}{{ sponsorsmarkdown | markdownify }}
+</article>
+{% endif %}
+
+<article id="conference_speakers" class="conference_section">{% assign conferencelist = site.conferences | where: "year", page.title | where: "backup", false %}
 	<h2 id="conferences_speakers">Speakers</h2>
 	<p>Confirmed speakers so far:</p>
 	<dl>{% for conference in conferencelist %}
-		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>{% for speaker in conference.speakers %}
-		<dd>{% if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{% if speaker.url %}</a>{% endif %}</dd>
-	{% endfor %}{% endfor %}</dl>
+		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>
+		<dd>{% for speaker in conference.speakers %}{%- if forloop.length > 0 -%}{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}{% unless forloop.last %} &mdash; {% endunless -%}{%- endif -%}{% endfor %}</dd>
+	{% endfor %}</dl>
+	{% assign backuplist = site.conferences | where: "year", page.title | where: "backup", true %}
+	{% if backuplist.size > 0 %}
+	<hr/>
+	<p>We are adding a few backup speakers, in the case of no-shows, or if there is extra time at the end of each day:</p>
+	<dl>{% for conference in backuplist %}
+		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>
+		<dd>{% for speaker in conference.speakers %}{%- if forloop.length > 0 -%}{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}{% unless forloop.last %} &mdash; {% endunless -%}{%- endif -%}{% endfor %}</dd>
+	{% endfor %}</dl>
+	{% endif %}
 </article>
+
 {% if has_logistics %}
 <article id="conference_logistics" class="conference_section">
 	<h2 id="conferences_logistics">Logistics</h2>

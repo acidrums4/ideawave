@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Citizen Science: opportunities and hazards in a patented world"
 year: "2012"
+backup: false
 speakers:
 - name: "Brian White"
+from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/citizen-science-opportunities-and-hazards-in-a-patented-world
+excerpt_separator: "<!--about-->"
 ---
-
 
 Come behind the scenes of the early days of Windowfarms as “Superforest”
 Jackson works briefly with the project, suggests and demonstrates a novel
@@ -24,18 +26,21 @@ produce habitat for pollinators. I will also delve into citizen science solar
 cooking research and compare the unique problems and opportunities that face
 citizen scientists with those that face “real” scientists.
 
-Bio: Brian White a citizen scientist too!  
-My “pulser pump” went on Wikipedia last year, and my video about it is the
+<!--about-->
+
+> I am a citizen scientist too!  
+
+> My “pulser pump” went on Wikipedia last year, and my video about it is the
 most watched “airlift pump” related video on the internet. According to
 youtube, it is seen in more than 150 countries every month.  
-I am also involved in the linen project. (Growing flax for food and fibre),
+
+> I am also involved in the linen project. (Growing flax for food and fibre),
 making habitat for solitary bees, and I made a “2 storey compost bin” that is
 in an e-book from instructables. I have also made several solar cooker
 innovations.  
-I have never succeeded in getting funding for the projects, (which slows
+
+> I have never succeeded in getting funding for the projects, (which slows
 things down a lot).  
-On the plus side, I have never been curbed by the strings attached to funding,
+
+> On the plus side, I have never been curbed by the strings attached to funding,
 which can stop things altogether!
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/citizen-science-opportunities-and-hazards-in-a-patented-world)

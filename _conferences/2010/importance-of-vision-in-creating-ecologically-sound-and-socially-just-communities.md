@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Importance of vision in creating ecologically sound and socially just communities."
 year: "2010"
+backup: false
 speakers:
 - name: "Karen Hurley, PhD"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/importance-of-vision-in-creating-ecologically-sound-and-socially-just-communities
+excerpt_separator: "<!--about-->"
 ---
-
 
 Positive images are important as guides towards sustainable and just futures
 as well as being useful in helping us face what is not working in our
@@ -24,7 +26,7 @@ different from the present is one our greatest problems as a society”. We have
 lost our ability to envision anything different from the present. The
 corporatised media, governments, corporate business, the design industry, many
 futures oriented professionals and scientist have converged and conflated “the
-future” into a more or less singular image of a nature-less future – one that
+future” into a more or less singular image of a nature-less future --- one that
 is lacking both ecological and human diversity. While negative pronouncements
 are necessary, they are simply not sufficient to make positive change happen.
 
@@ -37,7 +39,9 @@ space for diverse images of the future based on sustainable and just
 communities, both human and nonhuman, that will guide meaningful efforts
 directed towards sustainability.
 
-**Dr. Karen Hurley** is presently a sessional instructor in the School of
+<!--about-->
+
+Dr. Karen Hurley is presently a sessional instructor in the School of
 Environmental Studies and recently completed her doctoral topic is entitled
 “Daring to envision sustainable futures: an exploration in ecological futures
 image making” and is about how filmmaking, and specifically films about the
@@ -47,5 +51,3 @@ a vegetarian, organic restaurant called Sweet Pea Café. Karen is one of the
 founding board members of Haliburton Community Organic Farm, and is on the
 Executive Board of the World Futures Studies Federation.
 
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/importance-of-vision-in-creating-ecologically-sound-and-socially-just-communities)

@@ -3,8 +3,46 @@ layout: default
 ---
 <article>
 	<h1>{{ page.title }}</h1>
+	<h3 class="conference_speakers">
 	{% for speaker in page.speakers %}
-	<h3>{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}</h3>
+		{%- if forloop.length > 0 -%}
+			{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+				{{ speaker.name }}
+			{%if speaker.url %}</a>{% endif %}
+			{% unless forloop.last %} &mdash; {% endunless -%}
+		{%- endif -%}
 	{% endfor %}
-	{{ content }}
+	</h3>
+	{{ page.excerpt | markdownify }}
 </article>
+
+{% if page.videos %}
+<div class="conference_videos">
+{% for video in page.videos %}
+	<div class="conference_videos-video">
+		<iframe src="{{ video }}" title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" allowfullscreen></iframe>
+	</div>
+{% endfor %}
+</div>
+{% endif %}
+
+{% assign about = content | remove_first: page.excerpt | markdownify | strip_newlines %}{% if about != "" %}
+<section class="conference_about">
+	<h3 class="conference_speakers">
+	About {% for speaker in page.speakers %}
+		{%- if forloop.length > 0 -%}
+			{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+				{{ speaker.name }}
+			{%if speaker.url %}</a>{% endif %}
+			{% unless forloop.last %} &amp; {% endunless -%}
+		{%- endif -%}
+	{% endfor %}
+	</h3>
+	{{ content | remove_first: page.excerpt | markdownify }}
+</section>{% endif %}
+
+{% if page.time %}
+<time class="conference_time" datetime="{{ page.time }}">{{ page.time | date_to_string: "ordinal", "US" | prepend: "Conference scheduled for " }}</time>
+{% endif %}
+
+<span class="conference-back"><a href="{{ page.year | prepend: "/" | prepend: page.collection | absolute_url }}">{{ page.year | append: "&nbsp;IdeaWave" }}</a></span>

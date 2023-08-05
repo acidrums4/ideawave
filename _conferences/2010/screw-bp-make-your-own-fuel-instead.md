@@ -2,15 +2,19 @@
 layout: "conference"
 title: "Screw BP! Make Your Own Fuel Instead"
 year: "2010"
+backup: false
 speakers:
 - name: "Kenji Fuse"
   url: "http://islandbiodiesel.ca/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/screw-bp-make-your-own-fuel-instead
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/L_9r6Cjwimc
 ---
-
 
 The talk will begin by mixing a litre of used vegetable oil with an alcohol-
 based catalyst in a pop bottle, and the audience will then witness the
-reaction – separation of the biodiesel phase from the glycerin phase.
+reaction --- separation of the biodiesel phase from the glycerin phase.
 
 The talk will discuss the Island Biodiesel co-op’s mixed benefits: activity as
 a legitimate ‘business’, providing income for local co-op members, while
@@ -30,23 +34,17 @@ relinquishment of commitments to renewables.
 In particular, the current new carbon tax makes the fossil carbon in biodiesel
 taxed over 17 times higher than in petro-diesel. Finally, the talk will
 conclude with a desciption of the skills required for the new job
-opportunities which will unfold over the next century – not engineers or
+opportunities which will unfold over the next century --- not engineers or
 consultants, but composters, cleaners, recyclers, janitors and salvagers.
 
-[ Kenji Fuse
-](http://islandbiodiesel.ca/) co-
-founded the Island Biodiesel Co-op in 2006, and have given talks similar to
-this one at UVIC, the Alix Goolden Hall at the Victoria Conservatory of Music,
-the Moss Street Market, and across Canada and the US. The Island Biodiesel Co-
-op has been featured in the Times-Colonist, Monday Magazine, the Saanich
-Newsgroup, Biodiesel Magazine, the A Channel, and on CBC and CFUV radio. He is
-also a musician in the Victoria Symphony, a composer, on the string faculty at
-the Victoria Conservatory, and a general tinkler who still doesn’t spend
-enough time cleaning up his messes!
+<!--about-->
 
-
-[ View in HD
-](https://www.youtube.com/v/L_9r6Cjwimc?fs=1&hl=en_US&rel=0&hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/screw-bp-make-your-own-fuel-instead)
+Kenji Fuse co-founded the Island Biodiesel Co-op in 2006, and have given
+talks similar to this one at UVIC, the Alix Goolden Hall at the Victoria
+Conservatory of Music, the Moss Street Market, and across Canada and the
+US. The Island Biodiesel Co- op has been featured in the Times-Colonist,
+Monday Magazine, the Saanich Newsgroup, Biodiesel Magazine, the A Channel,
+and on CBC and CFUV radio. He is also a musician in the Victoria Symphony,
+a composer, on the string faculty at the Victoria Conservatory, and
+a general tinkler who still doesn’t spend enough time cleaning up
+his messes!

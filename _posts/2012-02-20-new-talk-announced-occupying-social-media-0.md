@@ -11,8 +11,8 @@ tags:
   Announcement
   Conference speaker
   IdeaWave2012
-  "#occupy"
-  "#ows"
+  '#occupy'
+  '#ows'
   Facebook
   linked in
   Lorraine Murphy

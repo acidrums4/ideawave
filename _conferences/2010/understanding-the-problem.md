@@ -2,11 +2,13 @@
 layout: "conference"
 title: "Understanding the Problem"
 year: "2010"
+backup: false
 speakers:
 - name: "Dorian Taylor"
   url: "http://doriantaylor.com/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/understanding-the-problem
+excerpt_separator: "<!--about-->"
 ---
-
 
 In the 20th century, we learned how to move atoms. We got so good at it that
 just about anybody in our part of the world can now get just about any atoms
@@ -25,9 +27,9 @@ industrial. Are we actually solving these problems, or are we trying to
 shoehorn results into Procrustean parameters to satisfy employers, clients or
 investors at our own expense and ultimately theirs?
 
-[Dorian
-Taylor](http://doriantaylor.com/)  
-It is said that artists starve, so I chose computers instead. Since I began my
+<!--about-->
+
+> It is said that artists starve, so I chose computers instead. Since I began my
 career in 1999, I’ve done everything from system administration to graphic
 design to writing web apps and big-data business intelligence systems. There
 are a few epithets that describe my body of expertise, but the nice one is
@@ -36,7 +38,3 @@ end of 2007 to integrate what I had learned programming with what I am
 learning in user experience design, business and management, and to set about
 tackling what I believe are some serious problems addling the increasingly
 important business of realizing software.  
-
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/understanding-the-problem)

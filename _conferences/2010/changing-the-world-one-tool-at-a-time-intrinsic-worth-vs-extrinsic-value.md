@@ -2,9 +2,12 @@
 layout: "conference"
 title: "Changing the World One Tool at a Time: Intrinsic Worth vs. Extrinsic Value"
 year: "2010"
+backup: false
 speakers:
 - name: "Frank Heidt"
   url: "https://www.leviathansecurity.com/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/changing-the-world-one-tool-at-a-time-intrinsic-worth-vs-extrinsic-value
+excerpt_separator: "<!--about-->"
 ---
 
 Foreign aid with intrinsic value rarely gets to people who need it most. Aid
@@ -26,10 +29,10 @@ with the highest quality hand tools, and make them available to motivated
 people. I want a program run by women. I want the tools to be run as lending
 libraries. I want people to build their own future.
 
-***
+<!--about-->
 
-Frank Heidt is Chief Executive Officer at Leviathan Security Group Inc. He
-Leads Leviathan's executive management team. As the creator of Leviathan’s
+Frank Heidt is the Chief Executive Officer for Leviathan Security Group Inc.  
+He Leads Leviathan’s executive management team. As the creator of Leviathan’s
 innovative business structure, he was responsible for designing Leviathan and
 bringing together security professionals with diverse backgrounds from premier
 consultancies, industries and government agencies.  
@@ -49,6 +52,4 @@ Frank Heidt is working with National Geographic cinematographer and award
 winning photographer William Thompson to edit his talk with added footage that
 shows progress on this Idea. It will be ready for next year’s IdeaWave where
 Frank will present another idea: this one to impede global warming by
-guerrilla tree planting.
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/changing-the-world-one-tool-at-a-time-intrinsic-worth-vs-extrinsic-value)
+guerrilla tree planting

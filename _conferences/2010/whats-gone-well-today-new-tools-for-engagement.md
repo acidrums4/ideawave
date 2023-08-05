@@ -2,11 +2,15 @@
 layout: "conference"
 title: "What’s Gone Well Today:  New tools for engagement"
 year: "2010"
+backup: false
 speakers:
 - name: "Christopher Bowers"
   url: "http://www.whatsgonewelltoday.com/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/whats-gone-well-today-new-tools-for-engagement
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/tD86gwlaj5s
 ---
-
 
 Subtext on the title: The Power of Curiosity and Personal Story
 
@@ -18,8 +22,8 @@ highly engaging presentation with immediate implications and applications for
 personal and business life. We will look at some of the 18 ways that asking a
 good question can help in whatever setting you find yourself in.
 
-[ Christopher
-Bowers](http://www.whatsgonewelltoday.com/)  
+<!--about-->
+
 After a career teaching in public schools, Christopher Bowers is now Executive
 Director of Community School Interviews, a local charity, and creator of
 ConversationWorks.ca. He’s been called the Story Catcher of Victoria. He works
@@ -34,12 +38,5 @@ Green Drinks at The Oswego Hotel, he moderates the Green Drink Network of
 Possibilities a social network that allows GD to become a 24 /7 resource for
 the community.
 
-His latest initiative is the launch of What’s Gone Well Today.com… a new way
+His latest initiative is the launch of [What’s Gone Well Today.com](http://www.whatsgonewelltoday.com/)&#8230; a new way
 to shift thought.
-
-
-[ View in full screen HD
-](https://www.youtube.com/embed/tD86gwlaj5s?rel=0&hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/whats-gone-well-today-new-tools-for-engagement)

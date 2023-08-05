@@ -2,11 +2,15 @@
 layout: "conference"
 title: "Right Brain Solutions for New Work Challenges"
 year: "2010"
+backup: false
 speakers:
 - name: "Dr. William A. Gray"
   url: "http://www.mentoring-solutions.com/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/right-brain-solutions-for-new-work-challenges
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/H7a0adr8x04
 ---
-
 
 To be competitive in the global economy, the Pew Center asserts that right
 brain innovative capability must be used to do NEW WORK — because “left brain”
@@ -29,11 +33,9 @@ shareholders. Knowledge translation converts knowledge and creative ideas into
 new products; AT&T did this to get new and better consumer products to market
 faster.
 
-[ Dr. William A.
-Gray](http://www.mentoring-
-solutions.com/)
+<!--about-->
 
-My wife and I have been innovators in education and corporate settings for
+> My wife and I have been innovators in education and corporate settings for
 over 30 years. At the University of British Columbia, we discovered how to
 enable future teachers (as mentors) to identify and respond to individual
 differences in learners by carrying out a Mentor-Assisted Enrichment Project
@@ -50,13 +52,5 @@ different business goals and the needs/goals of individual participants. We
 created paper products to enhance success, and later converted these into a
 web-based system that manages the entire process (registration and matching
 participants to work together in different ways, online training, monitoring
-activity, evaluating results).[ Our website
-](http://www.mentoring-
-solutions.com/) lists “Firsts” we pioneered and continue to do.
-
-
-View in [ full screen HD
-](https://www.youtube.com/embed/H7a0adr8x04?rel=0&hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/right-brain-solutions-for-new-work-challenges)
+activity, evaluating results). [Our website](http://www.mentoring-solutions.com/)
+lists “Firsts” we pioneered and continue to do.

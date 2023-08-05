@@ -2,10 +2,13 @@
 layout: "conference"
 title: "Regulating Embedded Journalism"
 year: "2011"
+backup: false
 speakers:
 - name: "David Bratzer"
+  url: "http://www.bratzer.net/"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/regulating-embedded-journalism
+excerpt_separator: "<!--about-->"
 ---
-
 
 Embedded journalism has been utilized in foreign countries during times of
 war, but its greatest potential is within our own borders and the best way to
@@ -19,10 +22,7 @@ institutions: hospitals, safety inspection agencies, prisons and fire
 departments, to name but a few. The regulation of embedded journalism is a
 powerful legal idea that would strengthen Canadian democracy.
 
-[David Bratzer
-](https://web.archive.org/web/20210507225047/http://www.bratzer.net/)wears
-many hats but he is perhaps best known for his work as an advocate for
-criminal justice reform.
+<!--about-->
 
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/regulating-embedded-journalism)
+David Bratzer wears many hats but he is perhaps best known for his work
+as an advocate for criminal justice reform.

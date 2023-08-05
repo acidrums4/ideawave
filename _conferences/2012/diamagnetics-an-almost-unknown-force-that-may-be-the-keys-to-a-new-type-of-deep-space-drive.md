@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Diamagnetics, an almost unknown force that may be the keys to a new type of deep space drive"
 year: "2012"
+backup: false
 speakers:
 - name: "Jim Harrington"
+from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/diamagnetics-an-almost-unknown-force-that-may-be-the-keys-to-a-new-type-of-deep-space-drive
+excerpt_separator: "<!--about-->"
 ---
-
 
 This would be an introduction to diamagnetics as a natural occurring elements
 that tend to move away from any magnetic field. Some of these elements include
@@ -18,7 +20,9 @@ new doped material possibly could be developed to produce strong diamagnetic
 moments under the influence of intense photo energy resulting in linear drive
 in micro-gravity.
 
-Bio: Jim Harrington is an electronics and mechanical product designer and is
+<!--about-->
+
+Jim Harrington is an electronics and mechanical product designer and is
 the founder and president of AGO Environmental Electronics, Ltd. His wife
 describes him as an inventor of practical products and he has been developing
 research and exploration equipment since 1970 in astrophysics, geophysics, and
@@ -34,6 +38,3 @@ continued to expand, manufacturing specialized support equipment for the
 mining, oceanographic, and scientific communities around the world. In 2008 he
 received the Ontario Premier’s award for Technology for the development of
 Canada’s first fuel cell assisted sailboat.
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/diamagnetics-an-almost-unknown-force-that-may-be-the-keys-to-a-new-type-of-deep-space-drive)

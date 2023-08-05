@@ -2,10 +2,14 @@
 layout: "conference"
 title: "Radical Self Interest"
 year: "2011"
+backup: false
 speakers:
 - name: "Adam Kreek"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/radical-self-interest
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/z-qK_kVxmac
 ---
-
 
 To be successful in any field, you must be selfish. Olympians, businesspeople
 and stay-at-home moms are all selfish. However, the top of any field, embraces
@@ -26,23 +30,21 @@ delivers poignant truth: Adam would not have won a gold medal had he not
 embraced an ethic of radical self interest. Adam found out first hand that
 low-level selfish achievement is empty.
 
-**Adam Kreek** is a loving husband and proud father who lives part-time in two
+<!--about-->
+
+Adam Kreek is a loving husband and proud father who lives part-time in two
 cities: Victoria, BC, and Ottawa, ON.
 
-An Olympic gold medalist in Beijing 2008, he is writing a book due out this
-fall with a working title, Confessions of an Olympian. Adam explores the
-secrets of great achievement through the lens of his Olympic journey, in a
-sport that is often described as the most physically demanding, and most
-reliant upon teamwork: rowing in an eight-man shell. Adam has retired from
-international competition, but keeps close ties to the Olympic movement. He
-sits on the Canadian Olympic Committee board of directors and is the vice-
-chair of the athletes commission.
+An Olympic gold medalist in Beijing 2008, he is writing a book due out
+this fall with a working title, Confessions of an Olympian. Adam explores
+the secrets of great achievement through the lens of his Olympic journey,
+in a sport that is often described as the most physically demanding,
+and most reliant upon teamwork: rowing in an eight-man shell. Adam has
+retired from international competition, but keeps close ties to the
+Olympic movement. He sits on the Canadian Olympic Committee board of
+directors and is the vice-chair of the athletes commission.
 
 Although retired, Adam still rows. He regularly fishes for crabs in his
 sliding-seat whitehall spirit dory. Also, in December of this year he will row
 across the Atlantic ocean from Liberia to Venezuela, supporting Right to Play
 and making another documentary.
-
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/radical-self-interest)

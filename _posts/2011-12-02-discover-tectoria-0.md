@@ -7,7 +7,7 @@ categories:
   Announcement
 tags: 
   Announcement
-  "#yyj"
+  '#yyj'
   discover
   tech
   tectoria

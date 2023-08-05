@@ -2,10 +2,12 @@
 layout: "conference"
 title: "Is disease mongering the greatest threat to public health?"
 year: "2011"
+backup: false
 speakers:
 - name: "Alan Cassels"
+from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/is-disease-mongering-the-greatest-threat-to-public-health
+excerpt_separator: "<!--about-->"
 ---
-
 
 Feeling tired? Blue? Forgetful? Maybe less competent in bed as you used to be?
 
@@ -20,7 +22,7 @@ which offers a prescription solution to whatever illness, condition or concern
 that comes our way.
 
 How does one overcome cynicism and not throw the baby out with the snake oil?
-Alan Cassels is no cynic, but he preaches a form of healthy skepticism–a
+Alan Cassels is no cynic, but he preaches a form of healthy skepticism --- a
 vital, potentially life-saving habit of questioning pharmaceutical-driven
 dogma and the medical profession who promotes it.
 
@@ -31,7 +33,9 @@ edges, where the yearning for easy medical solutions intersects with a
 powerful and well-stoked profit motive that keeps us running for the
 pharmaceutical cure.
 
-**Alan Cassels** has been immersed in pharmaceutical policy research for the
+<!--about-->
+
+Alan Cassels has been immersed in pharmaceutical policy research for the
 past 17 years, primarily working on national and provincial studies of
 prescription benefit policies, and the effects of independent information on
 prescriber and consumer behaviour. His interest in the quality of health
@@ -40,9 +44,7 @@ medical reporting. He has frequently reported on consumer health issues for
 magazines, newspapers and the CBC Radio program IDEAS. His book, Selling
 Sickness: How the World’s Biggest Pharmaceutical Companies are Turning us All
 into Patients (co-written with Ray Moynihan) was an international bestseller.
+
 His second book, The ABC’s of Disease Mongering: An Epidemic in 26 letters, is
 an illustrated book of rhymes which one critic likened to “Dr. Seuss taking on
 an overmedicated and over-diagnosed culture.”
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/is-disease-mongering-the-greatest-threat-to-public-health)

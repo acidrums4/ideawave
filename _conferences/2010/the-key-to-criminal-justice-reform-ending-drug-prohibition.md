@@ -2,11 +2,15 @@
 layout: "conference"
 title: "The Key to Criminal Justice Reform: Ending Drug Prohibition"
 year: "2010"
+backup: false
 speakers:
 - name: "David Bratzer"
   url: "http://www.bratzer.net/"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-key-to-criminal-justice-reform-ending-drug-prohibition
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/zlkdy5Ky3Cg
 ---
-
 
 The modern War on Drugs has continued for roughly forty years and yet victory
 remains distant. Despite decades of heavy enforcement, today illegal drugs are
@@ -22,19 +26,13 @@ the consensual adult behaviour surrounding drug use, refocus scarce law
 enforcement resources and ultimately address the serious problem of drug
 addiction in our society.  
 
-[David
-Bratzer](http://www.bratzer.net/)
-is a member of the board of directors for Law Enforcement Against Prohibition.
-LEAP is an international non-profit organization of current and former cops,
-prosecutors and correctional officers who seek to minimize crime, addiction,
-disease and death by gradually legalizing and regulating drugs. David is also
-concerned about the impact of drug prohibition on our education system, and in
-this respect he assists Canadian Students for Sensible Drug Policy as a member
-of their advisory board.
+<!--about-->
 
-
-[ View in full screen HD
-](https://www.youtube.com/v/zlkdy5Ky3Cg?fs=1&hl=en_US&rel=0&hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-key-to-criminal-justice-reform-ending-drug-prohibition)
+David Bratzer is a member of the board of directors for Law Enforcement
+Against Prohibition.  LEAP is an international non-profit organization of
+current and former cops, prosecutors and correctional officers who seek
+to minimize crime, addiction, disease and death by gradually legalizing
+and regulating drugs. David is also concerned about the impact of drug
+prohibition on our education system, and in this respect he assists
+Canadian Students for Sensible Drug Policy as a member of their advisory
+board.

@@ -2,12 +2,16 @@
 layout: "conference"
 title: "Treatment for Lymphedema"
 year: "2010"
+backup: false
 speakers:
 - name: "Margaret Pulton"
+from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/treatment-for-lymphedema
+excerpt_separator: "<!--about-->"
+videos:
+- https://www.youtube.com/embed/Z2mMaCy0jQo
 ---
 
-
-I was watching my sister trying to deal with acute lymphedema following a
+> I was watching my sister trying to deal with acute lymphedema following a
 double mastectomy, chemotherapy and radiation. She is one of 800,000 people in
 North America with 64,000 new cases being diagnosed every year. Mostly cancer
 victims.
@@ -22,7 +26,7 @@ drainage from stagnating and causing infections which are extremely serious.
 There is no one method to date allowing the lymph to flow back to thoracic
 node where it needs to go.
 
-Would it be possible, with enormous amounts of technology to which we have
+> Would it be possible, with enormous amounts of technology to which we have
 access to, offer a simpler and easier way to deal with this life altering
 condition? I think stem cells are not going to be available any time soon. A
 possible solution might be a garment made from extremely light and flexible
@@ -33,15 +37,16 @@ result would be continuous massage, hopefully creating new pathways for the
 lymph drainage and while certainly not a cure, perhaps a better way to get the
 job done.
 
-Lymphedema can also affect more than a person’s arms, leg edema is very
+> Lymphedema can also affect more than a person’s arms, leg edema is very
 difficult to manage. Perhaps, a pair of pressure pants could help. It is my
 hope that someone out there can envision putting the technology to work. There
 is a huge need and what is offered so far is very basic and not terribly
 effective. Thank you very much for the opportunity to express my idea about
 this extremely difficult condition.
 
-**Margaret Pulton**  
-I was born in Rossland B.C. and I grew up in Edmonton Alberta and graduated
+<!--about-->
+
+> I was born in Rossland B.C. and I grew up in Edmonton Alberta and graduated
 from the University of Alberta school of nursing. Our graduating class will be
 celebrating our 50th anniversary this year. My husband and I met in highschool
 and married in 1961. We had three daughters and moved to Victoria in 1972. My
@@ -53,10 +58,3 @@ dictate correspondence on the machine although it was very primitive, but I
 realized then the incredible potential of technology to change and improve the
 lives of people facing huge challenges. I am amazed and delighted with what
 has been accomplished so far and am excited about what is yet to come.
-
-
-[ View in HD
-](https://www.youtube.com/v/Z2mMaCy0jQo?fs=1&hl=en_US&rel=0&hd=1)
-
-
-[//]: # (Retrieved from https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/treatment-for-lymphedema)
