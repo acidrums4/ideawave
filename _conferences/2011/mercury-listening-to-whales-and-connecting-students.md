@@ -4,10 +4,8 @@ title: "MERCURY - Listening to whales and connecting students"
 year: "2011"
 backup: false
 speakers:
-- name: "Steven Ness"
-  url: "http://sness.net/"
+- "steven-ness"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/mercury-listening-to-whales-and-connecting-students
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/SxgJJgEY_yQ
 ---
@@ -31,11 +29,3 @@ a networked installation of ocean observatories. Unlike these massive
 projects, MERCURY aims to leverage the latest advances in wireless and
 hydrophone technology to quickly deploy a large network of small and
 inexpensive remote sensing stations in a bottom-up approach.
-
-<!--about-->
-
-Steven Ness is a Ph.D. student in the Department of Computer Science at
-the University of Victoria, studying sound with computers. He is the
-developer of [The Orchive website](http://orchive.cs.uvic.ca/) and is
-involved in many other aspects of studying sound with computers. He is
-passionate about understanding the languages of whales.

@@ -4,9 +4,8 @@ title: "What to do When “Everything’s Been Done Before”"
 year: "2011"
 backup: false
 speakers:
-- name: "Samantha deVries-Hofman"
+- "samantha-devries-hofman"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/what-to-do-when-everythings-been-done-before
-excerpt_separator: "<!--about-->"
 ---
 
 Internet not only killed television, but it also killed art as it was once
@@ -21,11 +20,3 @@ mass of people.
 
 So how does art adapt to this new society that acts like a child with ADHD and
 no medication? By growing past the idea that “everything’s been done before.”
-
-<!--about-->
-
-I am a Critical Studies major at Emily Carr University, who is currently a
-professional chess player in a game called life. I am interested in Global art
-and the idea of art in the contemporary that stands against all the critical
-ideas and theories and has the ability to be aesthetic and beautiful while
-still allow for meaning and information.

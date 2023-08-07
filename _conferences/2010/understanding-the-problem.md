@@ -4,10 +4,9 @@ title: "Understanding the Problem"
 year: "2010"
 backup: false
 speakers:
-- name: "Dorian Taylor"
-  url: "http://doriantaylor.com/"
+- "dorian-taylor"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/understanding-the-problem
-excerpt_separator: "<!--about-->"
+time: 20100710T1135-06
 ---
 
 In the 20th century, we learned how to move atoms. We got so good at it that
@@ -26,15 +25,3 @@ clumsily attempting to do business around activities that are wholly post-
 industrial. Are we actually solving these problems, or are we trying to
 shoehorn results into Procrustean parameters to satisfy employers, clients or
 investors at our own expense and ultimately theirs?
-
-<!--about-->
-
-> It is said that artists starve, so I chose computers instead. Since I began my
-career in 1999, I’ve done everything from system administration to graphic
-design to writing web apps and big-data business intelligence systems. There
-are a few epithets that describe my body of expertise, but the nice one is
-“self-directed learner”. I hung up my spurs as a security developer near the
-end of 2007 to integrate what I had learned programming with what I am
-learning in user experience design, business and management, and to set about
-tackling what I believe are some serious problems addling the increasingly
-important business of realizing software.  

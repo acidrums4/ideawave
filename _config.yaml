@@ -42,3 +42,5 @@ social:
 collections:
   conferences:
     output: true
+  speakers:
+    output: false

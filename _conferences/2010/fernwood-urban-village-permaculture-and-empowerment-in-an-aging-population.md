@@ -4,12 +4,11 @@ title: "Fernwood Urban Village: Permaculture and Empowerment in an Aging Populat
 year: "2010"
 backup: false
 speakers:
-- name: "Kylie Sandham"
-  url: "http://www.fernwoodurbanvillage.ca/"
+- "kylie-sandham"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/fernwood-urban-village-permaculture-and-empowerment-in-an-aging-population
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/S1JiWpzTLYM
+time: 20100710T13:20-06
 ---
 
 What is cohousing? How does the design of Cohousing promote social capital and
@@ -31,11 +30,3 @@ individuals. In an aging population in need of empowerment/community, and in
 an ecological environment in need of repair, permaculture/seniors based
 cohousing communities offer a solution. The Fernwood Urban Village Cohousing
 Community is in the process of developing just such an environment.
-
-<!--about-->
-
-B.A. Vancouver Island University, Majors Anthropology and Sociology. Focus:
-Cohousing, Intentional Community, Homelessness. Kylie has presented on
-cohousing at the Western Division of the Canadian Geographers Conference as
-well as the Anthropology Conference held a VIU in 2009. Kylie is the Office
-Administrator Fernwood Urban Village Cohousing Community.

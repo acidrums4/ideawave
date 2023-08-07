@@ -4,10 +4,9 @@ title: "Anaerobic Digestion - Beyond Composting"
 year: "2010"
 backup: false
 speakers:
-- name: "Eric Partridge"
-  url: "http://www.daffodil.com/"
+- "eric-partridge"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/anaerobic-digestion-beyond-composting
-excerpt_separator: "<!--about-->"
+time: 20100711T13:25-06
 ---
 
 Anaerobic Digestion is the process by which plant and animal material is
@@ -26,13 +25,3 @@ the choice of the future for British Columbia. This discussion will cover the
 reasons AD is preferable to other ways of managing our organic wastes, and the
 roadblocks and opportunities in developing a viable AD industry in British
 Columbia.
-
-<!--about-->
-
-Eric Partridge is a retired Assistant Deputy Minister of Environment
-for BC, a retired lawyer and a businessman. He has been interested in
-anaerobic digestion for the past decade and is the Project Development
-Manager for Vantreight Integrated Resource Management Ltd., a company
-that is developing a $20 million anaerobic digestion plant on lower
-Vancouver Island.
-

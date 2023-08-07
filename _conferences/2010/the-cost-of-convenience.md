@@ -4,12 +4,11 @@ title: "The Cost of Convenience"
 year: "2010"
 backup: false
 speakers:
-- name: "Janice Mansfield"
-  url: "http://www.realfoodmadeeasy.ca/"
+- "janice-mansfield"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-cost-of-convenience
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/43r8u0kn0rk
+time: 20100710T1050-06
 ---
 
 As someone who works with food everyday, I am always intrigued to see what new
@@ -32,11 +31,3 @@ help perpetuate.
 This discussion originally began on social media, prompted by a passing
 comment about one of these commercials. I think its worth more than an
 exchange of comments and has multiple repercussions, how about you?
-
-<!--about-->
-
-Janice Mansfield began Real Food Made Easy, a personal chef and
-glutenfree baking service after working for 18 years in government as an
-economist. In her business, she brings a love of growing and preparing
-food, with an insatiable desire to fully research as many aspects of
-food production and preparation as humanly possible!

@@ -4,11 +4,11 @@ title: "How Electric Vehicles Will Save the World"
 year: "2010"
 backup: false
 speakers:
-- name: "Blaine Juchau"
+- "blaine-juchau"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/how-electric-vehicles-will-save-the-world
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/8VyBZEdOXk0
+time: 20100710T1050-06
 ---
 
 OK, not the world, but EVs will empower consumers to slash their greenhouse
@@ -30,14 +30,3 @@ benefit: keep home utility rates low, fund conservation and alternative
 energy, motivate retailers and wind down government’s dependency on gasoline
 taxes --- meanwhile financing investment in FC stations. BC could make use of
 the real value of mobility to catalyze the future Green Economy.
-
-<!--about-->
-
-Blaine Juchau is a native of Napa, California. He built and still owns a
-gas station in California which won the City of Davis’s Environmental
-Recognition Award. He designed and built hundreds of solar heating systems.
-He’s also built custom homes, operated several businesses, practiced law and
-developed real estate. Blaine holds a BA in Architecture from the University
-of California at Berkeley and a Law Degree from McGeorge School of Law in
-Sacramento, California. He is a member of the Board of the BC Sustainable
-Energy Association and resides in Victoria, British Columbia.

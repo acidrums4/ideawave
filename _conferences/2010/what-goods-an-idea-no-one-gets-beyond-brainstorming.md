@@ -4,11 +4,11 @@ title: "What good’s an idea no one gets? & Beyond brainstorming"
 year: "2010"
 backup: false
 speakers:
-- name: "Marilynne Miles Gray"
+- "marilynne-miles-gray"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/what-goods-an-idea-no-one-gets-beyond-brainstorming
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/W74HlvHGOXI
+time: 20100711T0955-06
 ---
 
 This talk will be separated into two 5 minute talks!
@@ -42,13 +42,3 @@ questions.
 Out of her research has come a fresh synthesis of insights on the way the
 field is organized and the very human desire to get good answers to problems
 when crunch time comes.
-
-<!--about-->
-
-Marilynne Miles Gray: diverse background — teacher, entrepreneur,
-researcher, artist --- has taken her in many directions.  
-
-> I have a long-standing personal interest in: creativity itself; the many
-challenges of people who find themselves on the bleeding edge; and how to
-successfully encourage then sustain collaboration to break down silos and put
-products of any type on the market.

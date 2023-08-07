@@ -33,7 +33,15 @@ layout: default
 	<p>Confirmed speakers so far:</p>
 	<dl>{% for conference in conferencelist %}
 		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>
-		<dd>{% for speaker in conference.speakers %}{%- if forloop.length > 0 -%}{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}{% unless forloop.last %} &mdash; {% endunless -%}{%- endif -%}{% endfor %}</dd>
+		<dd>{% for speaker_loop in conference.speakers %}
+		{%- if forloop.length > 0 -%}
+			{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}
+			{%if speaker.speaker_url %}<a href="{{ speaker.speaker_url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+				{{ speaker.name }}
+			{%if speaker.speaker_url %}</a>{% endif %}
+			{% unless forloop.last %} &mdash; {% endunless -%}
+		{%- endif -%}
+		{% endfor %}</dd>
 	{% endfor %}</dl>
 	{% assign backuplist = site.conferences | where: "year", page.title | where: "backup", true %}
 	{% if backuplist.size > 0 %}
@@ -41,7 +49,15 @@ layout: default
 	<p>We are adding a few backup speakers, in the case of no-shows, or if there is extra time at the end of each day:</p>
 	<dl>{% for conference in backuplist %}
 		<dt><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></dt>
-		<dd>{% for speaker in conference.speakers %}{%- if forloop.length > 0 -%}{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}{{ speaker.name }}{%if speaker.url %}</a>{% endif %}{% unless forloop.last %} &mdash; {% endunless -%}{%- endif -%}{% endfor %}</dd>
+		<dd>{% for speaker_loop in conference.speakers %}
+		{%- if forloop.length > 0 -%}
+			{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}
+			{%if speaker.speaker_url %}<a href="{{ speaker.speaker_url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+				{{ speaker.name }}
+			{%if speaker.speaker_url %}</a>{% endif %}
+			{% unless forloop.last %} &mdash; {% endunless -%}
+		{%- endif -%}
+		{% endfor %}</dd>
 	{% endfor %}</dl>
 	{% endif %}
 </article>

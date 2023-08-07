@@ -4,11 +4,11 @@ title: "The Gene Weaver"
 year: "2010"
 backup: false
 speakers:
-- name: "Clem Persaud, Ph.D."
+- "clem-persaud"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-gene-weaver
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/cthqcD8kIbA
+time: 20100711T1530-06
 ---
 
 One stunning discovery of this biotech century is the idea that DNA (nature)
@@ -24,7 +24,3 @@ grandchildren, so therapists and researchers are eagerly pursuing ways of
 reversing unhealthy gene expressions. We are now on the threshold of
 leveraging this idea into action: by adopting a positive lifestyle, we can
 change our personal world one gene at a time.
-
-<!--about-->
-
-Clem Persaud, Ph.D. is a professor of Biotechnology (semi-retired).

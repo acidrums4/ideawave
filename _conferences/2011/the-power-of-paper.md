@@ -4,9 +4,8 @@ title: "The Power of Paper"
 year: "2011"
 backup: false
 speakers:
-- name: "Mike Vardy"
+- "mike-vardy"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/the-power-of-paper
-excerpt_separator: "<!--about-->"
 ---
 
 > With the advent of technology and the seeming demise of analog as a primary
@@ -21,15 +20,3 @@ psyches that much better.
 
 > I will include audience participation in this talk, where the power of paper
 will be demonstrated.
-
-<!--about-->
-
-Mike Vardy is a writer, speaker and productivity pundit from Victoria, BC.
-His work has appeared on several blogs including GTD Times, WorkAwesome (where
-he is also editor) and Life As A Human. He has several years of stage
-experience and has created works for CBC Radio and the print media as well.
-
-His latest effort is the ebook, An Eventual Planifesto, based on his work at
-the productivity parody website, Eventualism.
-
-He has an amazing wife and two equally amazing children.

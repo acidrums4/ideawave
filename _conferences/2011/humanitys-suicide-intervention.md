@@ -4,9 +4,8 @@ title: "Humanity’s suicide intervention"
 year: "2011"
 backup: false
 speakers:
-- name: "Robert Charles Radford"
+- "robert-charles-radford"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/humanitys-suicide-intervention
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/aVMmznEmheQ
 ---
@@ -27,13 +26,3 @@ words. He suggests ways for us to increase our awareness of this most
 important communication ability, which all of us have, and asks us to choose
 to stop being bullied into denying the existence of this ability and to use it
 to help create peace, happiness and fulfillment in our lives.
-
-<!--about-->
-
-Robert Charles Radford has been an honours graduate in Electrical
-Engineering from Queen’s University, a commissioned officer and airplane pilot
-in the navy reserve, a design and applications engineer in telecommunications,
-a manager of support services in nuclear-electric generation, a purchasing
-director in a 636-bed hospital, a church organist and teaching elder, an actor
-and singer in live theatre, and the father of six children. He lives with his
-wife in Maple Bay, BC.

@@ -4,12 +4,11 @@ title: "The Key to Criminal Justice Reform: Ending Drug Prohibition"
 year: "2010"
 backup: false
 speakers:
-- name: "David Bratzer"
-  url: "http://www.bratzer.net/"
+- "david-bratzer"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-key-to-criminal-justice-reform-ending-drug-prohibition
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/zlkdy5Ky3Cg
+time: 20100711T1145-06
 ---
 
 The modern War on Drugs has continued for roughly forty years and yet victory
@@ -25,14 +24,3 @@ prohibition is the key to criminal justice reform. Only then can we regulate
 the consensual adult behaviour surrounding drug use, refocus scarce law
 enforcement resources and ultimately address the serious problem of drug
 addiction in our society.  
-
-<!--about-->
-
-David Bratzer is a member of the board of directors for Law Enforcement
-Against Prohibition.  LEAP is an international non-profit organization of
-current and former cops, prosecutors and correctional officers who seek
-to minimize crime, addiction, disease and death by gradually legalizing
-and regulating drugs. David is also concerned about the impact of drug
-prohibition on our education system, and in this respect he assists
-Canadian Students for Sensible Drug Policy as a member of their advisory
-board.

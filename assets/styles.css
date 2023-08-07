@@ -491,6 +491,7 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 	justify-content: center;
 	align-items: center;
 	gap: calc(var(--gap) / 2);
+	margin-bottom: 0;
 	list-style: none;
 }
 
@@ -553,14 +554,10 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 .conference_time {
 	display: block;
 	margin-top: var(--gap);
-	padding: calc(var(--gap) / 2) var(--gap);
-	border-radius: 5px;
-	text-align: center;
 	line-height: 1;
 	font-size: 13px;
 	font-weight: bold;
-	color: #666;
-	background-color: #ddd;
+	color: #777;
 }
 
 .conference-back {
@@ -620,6 +617,16 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 .blog_nav a:hover {
 	background: transparent;
 	color: #222;
+}
+
+.blog_nav-previous::before {
+	margin-right: .5em;
+	content: '\25c0';
+}
+
+.blog_nav-next::after {
+	margin-left: .25em;
+	content: '\25ba';
 }
 
 .blog_post_nav {
@@ -736,7 +743,7 @@ article tbody tr:nth-child(even) { background-color: #f2f2f2 }
 }
 
 .search_result-conference a::before { content: 'Conference' }
-.search_result-post a::before { content: 'Post' }
+.search_result-post a::before { content: 'Blog' }
 
 #search_results_container a::before {
 	display: block;

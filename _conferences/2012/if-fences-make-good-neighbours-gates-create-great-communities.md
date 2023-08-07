@@ -4,9 +4,9 @@ title: "If Fences Make Good Neighbours, Gates Create Great Communities"
 year: "2012"
 backup: false
 speakers:
-- name: "Nikki Tate-Stratton"
+- "nikki-tate-stratton"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/if-fences-make-good-neighbours-gates-create-great-communities
-excerpt_separator: "<!--about-->"
+time: 20120226T06:00-06
 ---
 
 > I live on a little semi-rural/semi-suburban street and farm on a teeny, tiny
@@ -33,8 +33,3 @@ food. Given that Vancouver Island stores and restaurants have only a 72-hour
 supply of food on hand and that we now rely on off-island suppliers for more
 than 95% of all that we eat, it only makes sense that we work together to
 produce more, healthy food within our own communities.
-
-<!--about-->
-
-Nikki Tate-Stratton is a writer, broadcaster, and small-scale farmer who
-lives on a tiny farm on the Saanich Peninsula.

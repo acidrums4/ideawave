@@ -4,12 +4,11 @@ title: "Combat Apathy with Appreciative Inquiry"
 year: "2010"
 backup: false
 speakers:
-- name: "Melissa Pelto, MA"
-  url: "http://www.sixdegreescommunications.com/"
+- "melissa-pelto"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/combat-apathy-with-appreciative-inquiry
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/J6blz5vU9OU
+time: 20100710T09:30-06
 ---
 
 Is your organization spending 80% of your resources trying to fix the 20% that

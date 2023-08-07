@@ -23,7 +23,7 @@ layout: default
 </ul>
 {% if paginator.total_pages > 1 %}
 <nav class="blog_nav">
-{% if paginator.next_page %}<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older posts</a>{% endif %}
-{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts &rarr;</a>{% endif %}
+	{% if paginator.next_page %}<a class="blog_nav-previous" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older posts</a>{% endif %}
+	{% if paginator.previous_page %}<a class="blog_nav-next" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts</a>{% endif %}
 </nav>
 {% endif %}

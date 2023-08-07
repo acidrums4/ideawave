@@ -4,12 +4,11 @@ title: "Community Forests in Zambia"
 year: "2010"
 backup: false
 speakers:
-- name: "Garry Brooks"
-  url: "http://www.africancommunityproject.com/"
+- "garry-brooks"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/community-forests-in-zambia
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/h1vS5k6MaVI
+time: 20100710T11:35-06
 ---
 
 African Community Project (ACP) is the concept of Garry Brooks a retired
@@ -26,27 +25,3 @@ planting trees, addressing environmental issues like erosion and learning more
 about global warming and climate change and how they can be part of a bigger
 picture by doing their share. We are not a charity but we will help by showing
 communities ways of becoming environmentally sustainable.
-
-<!--about-->
-
-> I was born on Vancouver Island in Coombs (yes where the goats are on the roof,
-but across the road). Most of my life has been spent in Sooke where I
-graduated from high school and raised a family. I commercially fished and
-owned and operated my own forestry company which included sawing added value
-products. In 2002 I retired and relocated to Victoria.  
-
-> In 2002 I volunteered with VSO (Volunteer Service Overseas) for 13 months as a
-Community Developer in Zambia. Since than I have been spending at least six
-months of the year there working at village level, concentrating on
-reforestation, environmental concerns, clean water and community schools. And
-in Mozambique as a Community Developer for the Kapasseni Project from
-Victoria.  
-
-> 2004/07 my day job was a Consultant for the EU designing and building solar
-powered dry kilns for the carvers and craft people of Zambia.  
-
-> In 2008 I received the International Achievement Award from the Canadian
-Institute of Forestry for my work in Zambia.  
-
-> 2010 Still working on projects in Zambia and Mozambique. Will be going back in
-March to start the year.

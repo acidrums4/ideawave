@@ -4,12 +4,11 @@ title: "Right Brain Solutions for New Work Challenges"
 year: "2010"
 backup: false
 speakers:
-- name: "Dr. William A. Gray"
-  url: "http://www.mentoring-solutions.com/"
+- "william-gray"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/right-brain-solutions-for-new-work-challenges
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/H7a0adr8x04
+time: 20100711T1420-06
 ---
 
 To be competitive in the global economy, the Pew Center asserts that right
@@ -32,25 +31,3 @@ Transportation to produce innovative services for customers and profits for
 shareholders. Knowledge translation converts knowledge and creative ideas into
 new products; AT&T did this to get new and better consumer products to market
 faster.
-
-<!--about-->
-
-> My wife and I have been innovators in education and corporate settings for
-over 30 years. At the University of British Columbia, we discovered how to
-enable future teachers (as mentors) to identify and respond to individual
-differences in learners by carrying out a Mentor-Assisted Enrichment Project
-with 2-5 proteges in grades 4-12. Via R&D, we discovered how to properly
-structure MAEPs for gifted/talented, ESL and at-risk youth to produce
-appropriate outcomes (higher-level thinking, better language facility,
-motivation to stay in school). The mentors reported that they learned more
-about working with individuals than they did in any other way during their
-B.Ed Program. When we started our company, we combined the educational
-paradigm (emphasizes methods and process) with the corporate paradigm
-(emphasizes results), to create over 200 distinctive programs for corporate
-and government clients. Each program was collaboratively planned to meet
-different business goals and the needs/goals of individual participants. We
-created paper products to enhance success, and later converted these into a
-web-based system that manages the entire process (registration and matching
-participants to work together in different ways, online training, monitoring
-activity, evaluating results). [Our website](http://www.mentoring-solutions.com/)
-lists “Firsts” we pioneered and continue to do.

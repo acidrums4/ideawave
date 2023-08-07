@@ -4,12 +4,11 @@ title: "Dynamic Balance and the Psychological Alpha Particle"
 year: "2010"
 backup: false
 speakers:
-- name: "Kurt Schmidt"
-  url: "https://vimeo.com/7675930"
+- "kurt-schmidt"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/dynamic-balance-and-the-psychological-alpha-particle
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/DLspgNIyvDk
+time: 20100711T09:00-06
 ---
 
 As the flow of information continues to increase in our society, so does the
@@ -32,23 +31,3 @@ subjective perspectives. It also provides a new mathematical framework for
 empowering successful dialogue between apparently opposing views and unleashes
 a revolutionary paradigm for empowering the successful evolution of
 individuals and organizations.
-
-<!--about-->
-
-Kurt Schmidt is an electronics engineering technologist and businessman. For 20 years, he has
-been independently researching the principles and skills of effective and
-efficient communication. He and his wife Laurie have been married for 23 years
-and have five children.
-
-Co-Authors:
-
-**Peter Tongue** is a former principal of Victoria’s St. Michael’s University
-School and is a co-founder of the Victoria Conscious Centred Community. He
-currently hosts the weekly live talk-radio show Awakening to Conscious Co-
-creation on VoiceAmerica’s 7thWave network.
-
-**Matthew Barlow** is a Yale Divinity College scholar and lives with his wife
-Patricia in Boston.
-
-**Mathew Geddes** is a mathematician with Victoria’s St. Michael’s University
-School.

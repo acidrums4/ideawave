@@ -4,11 +4,11 @@ title: "The car hybridizing project"
 year: "2010"
 backup: false
 speakers:
-- name: "Craig Carmichael"
+- "craig-carmichael"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/the-car-hybridizing-project
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/eq_4us3sNOw
+time: 20100711T1625-06
 ---
 
 The goal: a car accessory system that mounts on the outside of a car wheel

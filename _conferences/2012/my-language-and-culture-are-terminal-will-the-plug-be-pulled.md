@@ -4,9 +4,9 @@ title: "My language and culture are terminal --- will the plug be pulled?"
 year: "2012"
 backup: false
 speakers:
-- name: "Bernard von Schulmann"
+- "bernard-von-schulmann"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/my-language-and-culture-are-terminal-will-the-plug-be-pulled
-excerpt_separator: "<!--about-->"
+time: 20120225T12:00-06
 ---
 
 > No culture is static and mine is not only terminal, but in palliative care.
@@ -21,13 +21,3 @@ the front row seat for the death of a language and a culture.
 
 > Will I have anyone interested in hearing about one more small obscure culture
 that is terminal? Or is it time to pull the plug?
-
-<!--about-->
-
-Bernard von Schulmann is a 46 year old resident of Victoria of Baltic
-German descent.
-
-> I was born in Vancouver but I was sent off to school not being
-able to speak any language other than Baltic German.
-
-> I am also many other things, but they are not what this talk is about.

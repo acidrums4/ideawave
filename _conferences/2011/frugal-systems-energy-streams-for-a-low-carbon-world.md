@@ -4,9 +4,8 @@ title: "Frugal systems energy streams for a low carbon world"
 year: "2011"
 backup: false
 speakers:
-- name: "Brian White"
+- "brian-white"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/frugal-systems-energy-streams-for-a-low-carbon-world
-excerpt_separator: "<!--about-->"
 ---
 
 > I grew up beside the river Slaney in Ireland. It’s a typical Irish or British
@@ -33,30 +32,3 @@ basic stuff.
 I will include a little about the pulser pump, fermentation powered pump,
 their connection to the worldwide windowfarms project and about my solar
 stuff. All frugal power projects!
-
-<!--about-->
-
-Brian White is a stonemason in Victoria:
-
-> My mum imparted her frugal beliefs and my father gave me much more time
-to learn and play with my projects than any overworked father should have.
-
-> Laziness is a great motivator. I wanted an automatic watering system for my
-garden. How do I get the water out of the stream and around the plants without
-using energy and without having to haul it myself? A tiny ram pump that I made
-failed after half an hour due to dirt in the clack valve.  
-
-> Ducks kicking up dirt!  
-
-> The quest for a “no moving part “duckproof” pump” led from coffee jar suction
-pump to the “what the hell is this?” which I later renamed pulser pump. 20
-years later, it has been replicated in England and a tiny research project in
-Queens University, Ontario validated the concept. But nobody yet knows their
-full capabilities.  
-
-> My solar projects are progressing slowly. Interest comes from Stirling engine
-enthusiasts, aid workers etc. If I had more technical wherewithal, they would
-be done now.  
-
-> Thanks to my family and friends, and ducks and those who encourage and argue
-for getting me this far.

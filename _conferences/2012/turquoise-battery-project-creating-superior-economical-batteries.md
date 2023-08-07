@@ -4,10 +4,9 @@ title: "Turquoise Battery Project - creating superior, economical batteries"
 year: "2012"
 backup: false
 speakers:
-- name: "Craig Carmichael"
-  url: "http://www.turquoiseenergy.com/CraigCarmichaelCV.html"
+- "craig-carmichael"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/turquoise-battery-project-creating-superior-economical-batteries
-excerpt_separator: "<!--about-->"
+time: 20120225T06:00-06
 ---
 
 In 2008 I decided to try creating a superior but economical battery chemistry.
@@ -44,9 +43,3 @@ Negative electrodes
 * Manganese --- the new highest energy electrode
 
 I’ll put instructions for making these batteries into a book on the web.
-
-<!--about-->
-
-Craig Carmichael is one of Canada’s most experienced inventors, since
-2008 tackling several renewable energy, energy storage and electric
-transport projects concurrently.

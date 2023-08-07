@@ -4,11 +4,11 @@ title: "Economic Foundations and Environmental Progress"
 year: "2010"
 backup: false
 speakers:
-- name: "Matthew A. Barker"
+- "matthew-barker"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/economic-foundations-and-environmental-progress
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/qYc3petw1rg
+time: 20100711T13:25-06
 ---
 
 The current economic value system is in direct conflict with the progress of
@@ -29,8 +29,3 @@ fewer people they need working. The economy rewards technological stagnation
 in labour-saving devices and designed obsolescence. The economy suffers when
 we are healthier, greener, and consume less. The solution is a movement away
 from job dependant monetary circulation to a guaranteed livable income.
-
-<!--about-->
-
-Matthew A. Barker is a youth entrepreneur who examines economics and
-environmental problems from a technological perspective.

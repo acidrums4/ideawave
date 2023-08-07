@@ -1,12 +1,12 @@
 ---
 layout: "conference"
-title: "Importance of vision in creating ecologically sound and socially just communities."
+title: "Importance of vision in creating ecologically sound and socially just communities"
 year: "2010"
 backup: false
 speakers:
-- name: "Karen Hurley, PhD"
+- "karen-hurley"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/importance-of-vision-in-creating-ecologically-sound-and-socially-just-communities
-excerpt_separator: "<!--about-->"
+time: 20100711T1420-06
 ---
 
 Positive images are important as guides towards sustainable and just futures
@@ -38,16 +38,3 @@ create visions that could evoke optimism. And to explore how we can assert
 space for diverse images of the future based on sustainable and just
 communities, both human and nonhuman, that will guide meaningful efforts
 directed towards sustainability.
-
-<!--about-->
-
-Dr. Karen Hurley is presently a sessional instructor in the School of
-Environmental Studies and recently completed her doctoral topic is entitled
-“Daring to envision sustainable futures: an exploration in ecological futures
-image making” and is about how filmmaking, and specifically films about the
-future, can contribute to creating sustainable and just communities. Karen has
-also worked as an environmental planner for many years. And in 1994 she opened
-a vegetarian, organic restaurant called Sweet Pea Café. Karen is one of the
-founding board members of Haliburton Community Organic Farm, and is on the
-Executive Board of the World Futures Studies Federation.
-

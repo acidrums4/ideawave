@@ -4,12 +4,11 @@ title: "Tracking solar accumulator, solar design t-square, clam shaped solar coo
 year: "2010"
 backup: false
 speakers:
-- name: "Brian White"
-  url: "http://solardesign.ning.com/"
+- "brian-white"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/tracking-solar-accumulator-solar-design-t-square-clam-shaped-solar-cookers
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/wLWdRCb5W-g
+time: 20100711T0955-06
 ---
 
 The tracking accumulator is a low tech device for concentrating sunlight to do
@@ -32,13 +31,3 @@ solar cooker to use all the sunlight for a defined time. So the cook can leave
 the food and avoid being cooked herself!  
 
 Also, the design process must be simple and cheap.
-
-<!--about-->
-
-Brian White trained as a lab technician (applied biology) in Ireland,
-works as a stone mason and invented the pulser pump in the late 1980s
-which is now being researched in Queens University.
-
-More details about the tracking solar accumulator
-and the clam shaped solar cookers can be found on the
-[solarcooking.org](http://solarcooking.org/) wiki.

@@ -4,9 +4,9 @@ title: "Marine Plants as Food"
 year: "2012"
 backup: false
 speakers:
-- name: "Nancy Laird"
+- "nancy-laird"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/marine-plants-as-food
-excerpt_separator: "<!--about-->"
+time: 20120226T06:00-06
 ---
 
 We shop the world for substances to nourish our bodies, but we are missing a
@@ -20,14 +20,3 @@ our best choice.
 
 As alternatives, we look to organic, local, slow, sustainable, home-grown, but
 have we considered marine plants?
-
-<!--about-->
-
-Known as nannutrition, Nancy Laird has a background in Food Science and
-holistic nutrition with experience in government, industry and academia.  
-
-Currently associated with DBMP in Qualicum Beach, Nancy is investigating
-marine plants local to Vancouver Island as a source of safe, sustainable,
-secure, and nutritious food.  
-
-She loves a good meal with friends.

@@ -4,11 +4,11 @@ title: "Fuzzy Logic for the Control of Advanced Mobility Support Devices"
 year: "2010"
 backup: false
 speakers:
-- name: "Robert Prinz"
+- "robert-prinz"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/fuzzy-logic-for-the-control-of-advanced-mobility-support-devices
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/E_d6ph_8KgE
+time: 20100710T11:35-06
 ---
 
 > Fuzzy logic extends conventional logic and set theory to include the idea of
@@ -25,12 +25,3 @@ activities of an advanced mobility support device, such as a powered orthosis
 or exoskeleton, which provides active mobility assistance to the user. This
 work was presented at the 33rd Canadian Medical and Biological Engineering
 Conference recently held in Vancouver.
-
-<!--about-->
-
-Robert Prinz received his B.Eng. in Electrical Engineering from the
-University of Victoria in 2005 and is currently seeking his M.A.Sc. He is a
-research associate (grad student) with CanAssist --- the University of Victoria
-assistive technology team --- where he aspires to use technology to better the
-lives of people with special needs. His primary areas of research include
-human movement analysis, control theory, and artificial intelligence.

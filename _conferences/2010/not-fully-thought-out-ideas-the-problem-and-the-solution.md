@@ -4,11 +4,11 @@ title: "Not-fully-thought-out Ideas: The Problem and the Solution"
 year: "2010"
 backup: false
 speakers:
-- name: "Desmond Lindo"
+- "desmond-lindo"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/not-fully-thought-out-ideas-the-problem-and-the-solution
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/RMMx7Pgf3X0
+time: 20100710T1320-06
 ---
 
 As we gather to celebrate a host of new ideas that will undoubtedly prove to
@@ -25,14 +25,3 @@ political or philosophical persuasions. All that is required of those
 who would implement the solution here presented is imagination, a sense
 of humour, and an abiding love for the African Rhinoceros. (Diceros
 bicornis bicornis.)
-
-<!--about-->
-
-Desmond Lindo shares many personal traits and characteristics with the
-African Rhinoceros. Short-sighted and incredibly thick-skinned, he possesses a
-cranium designed by nature for butting heads, which he loves to engage in with
-other obtuse individuals.  
-
-A former long-time resident of Victoria, his current roaming territory is the
-intellectually-barren veldt of the Comox Valley. He charges down to Victoria
-from time to time to feed on its lush intellectual greenery.

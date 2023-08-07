@@ -4,9 +4,8 @@ title: "The Promise of Utility Grade Computing"
 year: "2012"
 backup: false
 speakers:
-- name: "Gregg Ferrie"
+- "gregg-ferrie"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/the-promise-of-utility-grade-computing
-excerpt_separator: "<!--about-->"
 ---
 
 The use of diskless or slim computing can dramatically improve an
@@ -34,16 +33,3 @@ costs and reduced overall district electricity consumption by approximately
 additional benefits including: changing organizational culture, reducing the
 total cost of ownership (TCO), while streamlining and improving user access to
 the information and data they require.
-
-<!--about-->
-
-Gregg Ferrie is the Director of Information Technology at the [Saanich
-School District](http://www.sd63.bc.ca/).
-
-He has a Master of Science degree in Information Systems. As well Gregg holds
-the Information Systems Professional (I.S.P.) designation through the Canadian
-Information Processing Society and the Information Technology Certified
-Professional designation. Gregg is a member of the Association for Computing
-Machinery. He is passionate about his family, technology, open source
-software, education and energy conservation. Interests include sailing,
-history and the outdoors.

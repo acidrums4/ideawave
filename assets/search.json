@@ -4,9 +4,10 @@ layout: none
 [
   {% for conference in site.conferences %}
   {% if conference.year != nil %}
-    { {% capture speakers %}{% for speaker in conference.speakers %}{{ speaker.name }}{% endfor %}{% endcapture %}
+    { {% capture speakers %}{% for speaker_loop in conference.speakers %}{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}{{ speaker.name }}{% endfor %}{% endcapture %}
+			
       "title"    : "{{ conference.title | escape }}",
-      "meta" : "{{ speakers | join: ', ' }}",
+      "meta"     : "{{ speakers | join: ', ' }}",
       "date"     : "{{ conference.date | date-to_string: 'ordinal', 'US' }}",
       "type"     : "conference"
     },

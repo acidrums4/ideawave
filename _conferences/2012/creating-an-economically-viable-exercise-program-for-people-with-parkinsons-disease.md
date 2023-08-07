@@ -4,9 +4,9 @@ title: "Creating an economically viable exercise program for people with Parkins
 year: "2012"
 backup: false
 speakers:
-- name: "Karla Gallagher"
+- "karla-gallagher"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/creating-an-economically-viable-exercise-program-for-people-with-parkinsons-disease
-excerpt_separator: "<!--about-->"
+time: 20120226T06:00-06
 ---
 
 Parkinson’s disease(PD) is a progressive neurological disorder that effects
@@ -31,18 +31,3 @@ feasible option for an ongoing community based exercise program. Research has
 shown that continued exercise results in better health outcomes for people
 with Parkinson’s Disease and could create saving to the Canadian Healthcare
 system.
-
-<!--about-->
-
-Karla Gallagher completed her degree in Physiotherapy at the University
-of British Columbia in 2004 and is currently pursuing a master’s degree at
-University of Victoria. She works at the Seniors Outpatient Clinic at
-Vancouver Island Health Authority and at Olympic Physiotherapy.  
-
-Karla has her acupuncture certification through the Acupuncture Foundation of
-Canada Institute and post graduate training in manual therapy. Karla has a
-special interest in treating seniors. She has completed the Fallproof™ Balance
-and Mobility Specialist Instructor Certificate Program, through the Centre for
-Successful Aging at California State University. She has also completed the
-LVST BIG Training and Certification. The LVST BIG program is a specialized
-treatment for people with Parkinson’s Disease and other movement disorders.

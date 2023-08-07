@@ -4,9 +4,9 @@ title: "30 Days of Fernet Branca: An experiment in healthy drinking"
 year: "2012"
 backup: false
 speakers:
-- name: "Janice Mansfield"
+- "janice-mansfield"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/30-days-of-fernet-branca-an-experiment-in-healthy-drinking
-excerpt_separator: "<!--about-->"
+time: 20120225T06:00-06
 ---
 
 For 30 days during January 2012, Janice decided to subject herself to a dose
@@ -22,18 +22,3 @@ for 30 Days.
 
 She will highlight some of the changes she observed during that month, and
 share some of the other surprising things she discovered about this elixer!
-
-<!--about-->
-
-Janice Mansfield is the personal chef behind Real Food Made Easy,
-providing catering services and meal planning and preparation for people with
-restricted diets. She also enjoys classic cocktails, and began incorporating
-cocktails into catered dinners and special events.
-
-In 2009, she began experimenting with bitters, in order to create products she
-was unable to find in Canada, and found demand from others experiencing the
-same frustration. Those first bitters experiments have evolved into “House
-Made” bitters, a line of micro-batch, artisinal bitters, with a distinct
-culinary edge. “House Made” now produces 8 standard flavours of bitters, with
-a changing selection of one-time, seasonal flavours, and produces a line of
-cocktail syrups.

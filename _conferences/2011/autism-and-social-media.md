@@ -4,9 +4,8 @@ title: "Autism and Social Media"
 year: "2011"
 backup: false
 speakers:
-- name: "Iris Gray"
+- "iris-gray"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/autism-and-social-media
-excerpt_separator: "<!--about-->"
 ---
 
 Back in November many people were asked to refrain from using social media for
@@ -22,11 +21,3 @@ social media sites.
 
 In this speech I will talk about how I, an autistic person, and other people
 on the autism spectrum benefit from the use of social media.
-
-<!--about-->
-
-> I am an adult who was diagnosed with autism spectrum disorder
-at age 35. I now try to help other people diagnosed with autism spectrum
-disorders by running a support group for adults on the spectrum.
-
-> I have lived in Victoria for 20 years and I currently work as an editor.

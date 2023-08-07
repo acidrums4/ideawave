@@ -4,9 +4,8 @@ title: "Solar powered school lighting and computer system"
 year: "2011"
 backup: false
 speakers:
-- name: "Ian Soutar"
+- "ian-soutar"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/solar-powered-school-lighting-and-computer-system
-excerpt_separator: "<!--about-->"
 ---
 
 We have developed and tested a school power system meant for developing
@@ -27,14 +26,3 @@ available.
 
 The hardware design will be open source and available to the UN or other
 groups offinger aid to developing countries.
-
-<!--about-->
-
-Ian Soutar will be presenting. Ian has worked at the NRC in Ottawa in the
-early 1980s. In 1986 he formed Microsec R&D Inc. to develop electronic
-products. After many years of contracting Microsec is changing the focus to
-include renewable energy systems.
-
-Ian has patents on a number of devices ranging from medical and industrial
-tools, games, agricultural tools and communication systems. He specializes
-also in radio communication.

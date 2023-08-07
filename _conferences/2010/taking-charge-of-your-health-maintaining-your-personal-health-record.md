@@ -4,11 +4,11 @@ title: "Taking Charge of Your Health: Maintaining Your Personal Health Record"
 year: "2010"
 backup: false
 speakers:
-- name: "Cheryl Upright"
+- "cheryl-upright"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/taking-charge-of-your-health-maintaining-your-personal-health-record
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/Fcbt-gyiqoU
+time: 20100711T1530-06
 ---
 
 The health care system strives to promote the best care possible, sharing
@@ -31,11 +31,3 @@ without access and confidentiality issues. Ease of access is especially
 important in the care of older adults or for travelling outside the province.
 Take charge of your own record and see an immediate benefit in your health
 care!
-
-<!--about-->
-
-Cheryl Upright is a Registered Nurse who has a special interest in
-inspiring people to get involved in their health care. She has a Master’s
-Degree in Nursing from the University of British Columbia. In her current work
-as a research nurse, she constantly sees the value of people knowing the
-details of their health history.

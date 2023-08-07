@@ -4,9 +4,9 @@ title: "Practical ideas to make your new or existing home more energy efficient"
 year: "2012"
 backup: false
 speakers:
-- name: "Hermann Thoene"
+- "hermann-thoene"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/practical-ideas-to-make-your-new-or-existing-home-more-energy-efficient
-excerpt_separator: "<!--about-->"
+time: 20120226T06:00-06
 ---
 
 > One of the biggest contributions to our economical footprint are our homes.
@@ -34,15 +34,3 @@ what are better alternatives?
 it be a practical tool to increase safety and reduce energy usage?
 
 > (I will reduce this list and just pick the most interesting points)
-
-<!--about-->
-
-Hermann Thoene is an environmentally conscious person, who immigrated
-to Victoria from Germany in 2000. For nearly 20 years he worked in
-various positions for a world leading computer company. In 2009 he
-switched to a completely different task and founded Vanisle [Ecolog
-Homes](http://ecolog-homes.ca/) to design and supply a new style of
-log homes based on square timbers. In 2011 Hermann became a Certified
-Energy Advisor with Natural Resources Canada, which enabled him to advice
-customers on energy efficiency of homes, and to analyze and model the
-energy performance of homes.

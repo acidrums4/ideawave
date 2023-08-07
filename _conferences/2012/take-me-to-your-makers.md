@@ -4,9 +4,9 @@ title: "Take me to your Makers!"
 year: "2012"
 backup: false
 speakers:
-- name: "Vanessa Pattison"
+- "vanessa-pattison"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/take-me-to-your-makers
-excerpt_separator: "<!--about-->"
+time: 20120226T12:00-06
 ---
 
 How many of us regard ourselves as a Maker? We all make things, whether it’s
@@ -27,16 +27,3 @@ Island Mini Maker Fair (July 28-29th) and you’ll find out how you can get
 involved. There are lots of people here making all sorts of amazing things and
 the Maker Faire is an ideal way to share the love of hobbies, getting together
 and making things!
-
-<!--about-->
-
-Vanessa Pattison immigrated to Victoria from the UK in January 2010 with
-a background in renewable energy, marketing and media. She’s spent the last
-year as chief labourer/GC as she fully renovates her 1925 house, which led her
-to investigate ways to distract herself (escape the house occasionally!) as
-well as elaborate on her new found skills and rejuvenate her creative side.
-
-After discovering and attending Ideas Victoria, Vanessa heard about
-Makerspace, took their metal forging class and got hooked into the makers/DIY
-community, pitching for funds and helping organise events such as the
-Vancouver Island Mini Maker Faire.

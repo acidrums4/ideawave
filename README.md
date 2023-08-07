@@ -2,28 +2,6 @@
 
 Jekyll/HTML/CSS refactor of [ideawave.ca](https://www.ideawave.ca/), [which was done originally in WordPress](https://web.archive.org/web/20210507223400/https://www.ideawave.ca/). Pages and blog posts were brought from the archived version with a custom Python scrapper using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and converted to Markdown with [html2text](https://pypi.org/project/html2text/).
 
-## Installation
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "ideawave"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: ideawave
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ideawave
-
 ## Usage
 
 ### Blog posts
@@ -36,20 +14,19 @@ Standard pages (about, blog, contact) are also written in Markdown and are store
 
 ### Conferences
 
-The pages for the conferences that were held are stored in `_conferences`.
+The pages for the conferences that were held are stored in `_conferences` and grouped in folders, each corresponding to its year. A Markdown file at `_conferences` named with the year contains the main text of its conference, where as `<year>-sponsors.md` and `<year>-logistics.md` hold the information concerning sponsors and logistics.
 
-## Contributing
+For each conference, the frontmatter in its file holds meta-information concerning to it, like:
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/acidrums4/ideawave. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+* Name
+* Date/Time it was scheduled (given in ISO-8601 format, as it's the format required for HTML/Liquid parsing)
+* Speakers
+* Videos
+* Wether if it was a backup conference
 
-## Development
+### Speakers
 
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `ideawave.gemspec` accordingly.
+A Jekyll collection for speakers is used to store information concerning to each one of them, stored in the `_speakers` folder. Each file is named following the Jekyll convention (all in lowercase and ASCII letters, spaces converted to hyphens, no special characters) which is also the format used for the speaker ID. The frontmatter of each file also holds information for the name of the speaker and their website, if they have any.
 
 ## License
 

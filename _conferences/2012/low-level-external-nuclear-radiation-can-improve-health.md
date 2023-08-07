@@ -4,10 +4,9 @@ title: "Low level external nuclear radiation can improve health"
 year: "2012"
 backup: false
 speakers:
-- name: "Ian Soutar"
-  url: "http://www.microsec.net/"
+- "ian-soutar"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/low-level-external-nuclear-radiation-can-improve-health
-excerpt_separator: "<!--about-->"
+time: 20120225T12:00-06
 ---
 
 *Radiation Hormesis*
@@ -37,10 +36,3 @@ you bring a geiger counter to find them. The uranium is locked into the glass
 and cannot accidentally be consumed. I have been experiencing beneficial
 effects from making a point of exposing myself to low levels of radiation of a
 safe type.
-
-<!--about-->
-
-Ian Soutar has worked at the National Research Council in the 1980s
-doing solar energy research and also in Ottawa for private solar
-industries. Currently in Victoria at Microsec R&D Inc. where we design
-electronic products.

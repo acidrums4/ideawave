@@ -4,9 +4,8 @@ title: "The Victoria Open Wifi project"
 year: "2011"
 backup: false
 speakers:
-- name: "Liam McLachlan"
+- "liam-mclachlan"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/the-victoria-open-wifi-project
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/6pqfWgqdX08
 ---
@@ -33,9 +32,3 @@ The internet is supposed to be freedom, and free access to information. An
 open, free to use public network could provide basic access to internet and
 the web to even the playing field through access to information and services
 online.
-
-<!--about-->
-
-> My name is Liam McLachlan. I do IT support services in the greater
-Victoria area. I have a passion for technologies that enable people, and that
-create value beyond the basic application of that technology.

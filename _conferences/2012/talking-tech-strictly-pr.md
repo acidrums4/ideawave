@@ -4,9 +4,9 @@ title: "Talking Tech, strictly PR"
 year: "2012"
 backup: false
 speakers:
-- name: "Ryan Levis"
+- "ryan-levis"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/talking-tech-strictly-pr
-excerpt_separator: "<!--about-->"
+time: 20120226T12:00-06
 ---
 
 This discussion centers on being outstanding, natural, and honest in sales
@@ -29,27 +29,3 @@ how bodies physically lie in poor habitual postures. These can be more easily
 improved with awareness. This is excellent demonstration for health and
 wellness. Also it benefits attendee’s ability to sell their skills and be
 their own best competitive advantage.
-
-<!--about-->
-
-Ryan Levis is Canada’s Impact Apprentice. Wham, he won that title for his
-teamwork and leadership skills. Also some wizard idea waves about cooperative
-business models and being an outrageous (Shakespearean) business personality.
-
-Ryan strives to create an educational illustrated series around modern
-economics in the form of a book for young readers and course-packs.  
-
-Currently he studies independently with the help of UVIC’s Instituted for
-Cooperative and Community Based Economy. And as a recent grad majoring Greek
-and Roman Studies with a business and theatre production minor (Four title
-Shakespearean roles and he is cast locally to play Henry V [again] this
-summer) Ryan is in a national identity as well thanks to Impact Apprentice.  
-
-Current or recent happenings include: learning French, Mandarin, Piano &
-Fitness. The Vanity Project. Eagle and the Frog. Henry V. Shakespeare Theatre
-Association, Canadian Undergraduate Technology, Oil Sands leadership
-Initiative, GottaCon, TV Travel.  
-
-Ryan looks forward to this fabulous networking opportunity and is glad to
-share his talents, insights, and humor with the Victoria entrepreneurial
-community.

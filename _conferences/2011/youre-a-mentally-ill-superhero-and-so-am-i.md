@@ -4,9 +4,8 @@ title: "You’re a mentally ill superhero (and so am I)"
 year: "2011"
 backup: false
 speakers:
-- name: "Tim Lowan"
+- "tim-lowan"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/youre-a-mentally-ill-superhero-and-so-am-i
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/G2W3HoxXVU0
 ---
@@ -35,12 +34,3 @@ learning through a number of disciplines what fixes the problems in the brain.
 
 We’re also learning what it means not to be mentally ill, but to be mentally
 well.
-
-<!--about-->
-
-Tim Lowan is a Neurofeedback Technician in Victoria B.C., working with
-clients dealing with relaxation, depression, sleep, stress and anxiety issues.  
-
-Tim has also worked with his father, John Lowan, developing a neuroscience
----based approach to meditation that has been taught at to doctors and
-clinicians at the Mayo Clinic for the past 5 years.

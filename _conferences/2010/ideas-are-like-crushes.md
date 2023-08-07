@@ -4,12 +4,11 @@ title: "Ideas are like Crushes"
 year: "2010"
 backup: false
 speakers:
-- name: "Sasan Aghdasi"
-  url: "http://www.schoolr.com/"
+- "sasan-aghdasi"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/ideas-are-like-crushes
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/LvCzjs-QSbA
+time: 20100710T0930-06
 ---
 
 New ideas are like crushes. Your palms get a little sweaty, your heartbeat
@@ -25,7 +24,3 @@ it. Take the risk and ask out your idea.
 This talk will be focused on acting on ideas and turning them into something
 tangible. Touching on: why an idea should be shared with everyone and not be
 kept as a secret.
-
-<!--about-->
-
-Sasan Aghdasi is a web entrepreneur with a background in economics. He loves start-ups, has a weird fixation on banjos, and really enjoys eating limes.

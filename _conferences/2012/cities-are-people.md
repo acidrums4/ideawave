@@ -4,9 +4,9 @@ title: "Cities are People"
 year: "2012"
 backup: false
 speakers:
-- name: "Yuri Artibise"
+- "yuri-artibise"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/cities-are-people
-excerpt_separator: "<!--about-->"
+time: 20120225T12:00-06
 ---
 
 Cities used to be social places designed for people. Now they are designed for
@@ -27,12 +27,3 @@ well being, but also the well being of our city, anything is possible. By
 retaking control of our cities and making our own changes—no matter how
 small—we can take back our cities from the machines and machinations and
 return to people centred cities.
-
-<!--about-->
-
-Yuri Artibise is a public policy wonk with a passion for cities and
-social media. Through his Yurbanism brand, he explores the ‘Y’ of urbanism by
-sharing ways to make our cities more livable, community-oriented places one
-block at a time. He currently works with PlaceSpeak, an online location-based
-community consultation platform and contributes regularly to Spacing
-Vancouver.

@@ -4,12 +4,11 @@ title: "It’s nursing for the future trans-humanists"
 year: "2010"
 backup: false
 speakers:
-- name: "Sarah Novotny"
-  url: "http://sarahnovotny.com/"
+- "sarah-novotny"
 from: https://web.archive.org/web/20210416135337/https://www.ideawave.ca/the-conference/its-nursing-for-the-future-trans-humanists
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/FTGifAXHVRA
+time: 20100711T1050-06
 ---
 
 > I spend a lot of time thinking about why there are so few women in IT and how
@@ -39,12 +38,3 @@ satisfying to a neighbor or a parent.
 but it’s hard to sell operations to anyone. On the other hand, many women I
 know are the fantastic at logistics. Should the new slogan for IT operations
 be “it’s nursing for the future trans-humanists”?
-
-<!--about-->
-
-I’m a founding partner of Blue Gecko. I manage and am a senior administrator
-in the Open Databases / LAMP practice. We do remote administration and
-management of databases around the world.
-
-I additionally run the Seattle meetups for LinuxChix, MySQL, and one focused
-on Opensource and general geeky socializing.

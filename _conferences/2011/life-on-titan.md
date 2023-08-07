@@ -4,10 +4,8 @@ title: "Life on Titan"
 year: "2011"
 backup: false
 speakers:
-- name: "Craig Carmichael"
-  url: "http://www.TurquoiseEnergy.com/CraigCarmichaelCV.html"
+- "craig-carmichael"
 from: https://web.archive.org/web/20210413201442/https://www.ideawave.ca/2011-conference/life-on-titan
-excerpt_separator: "<!--about-->"
 videos:
 - https://www.youtube.com/embed/ux2rWwp4NYw
 ---
@@ -30,14 +28,3 @@ Life:
 * Cassini images show forests of giant trees, lakes of changing levels filled with vegetation, plain as day. River channels are marked by taller trees.
 
 > Will bring pictures taken by spacecraft to illustrate.
-
-<!--about-->
-
-I’m one of Canada’s top inventors and the sometimes a
-researcher. I’ve been studying worlds of our solar system whenever data
-becomes available with special interest in the moons --- and _planets_
-bigger than Mercury --- that orbit Jupiter and Saturn. I have followed
-Galileo, Huygens and Cassini missions with great attention and have come
-to see what I feel is the ‘big picture’ of the surface of Titan
-and several other worlds, avoiding errors of narrow and uncorrelated
-interpretation of data that space scientists have fallen victim to.

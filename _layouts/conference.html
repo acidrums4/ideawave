@@ -4,16 +4,20 @@ layout: default
 <article>
 	<h1>{{ page.title }}</h1>
 	<h3 class="conference_speakers">
-	{% for speaker in page.speakers %}
+	{% for speaker_loop in page.speakers %}
 		{%- if forloop.length > 0 -%}
-			{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+			{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}
+			{%if speaker.speaker_url %}<a href="{{ speaker.speaker_url }}" target="_blank" rel="noopener noreferrer">{% endif %}
 				{{ speaker.name }}
-			{%if speaker.url %}</a>{% endif %}
+			{%if speaker.speaker_url %}</a>{% endif %}
 			{% unless forloop.last %} &mdash; {% endunless -%}
 		{%- endif -%}
 	{% endfor %}
 	</h3>
-	{{ page.excerpt | markdownify }}
+	{{ content }}
+	{% if page.time %}
+	<time class="conference_time" datetime="{{ page.time }}">{{ page.time | date_to_string: "ordinal", "US" | prepend: "Conference scheduled for " }}</time>
+	{% endif %}
 </article>
 
 {% if page.videos %}
@@ -26,23 +30,14 @@ layout: default
 </div>
 {% endif %}
 
-{% assign about = content | remove_first: page.excerpt | markdownify | strip_newlines %}{% if about != "" %}
+{% for speaker_loop in page.speakers %}
+{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}
+{% if speaker.content != "" %}
 <section class="conference_about">
-	<h3 class="conference_speakers">
-	About {% for speaker in page.speakers %}
-		{%- if forloop.length > 0 -%}
-			{%if speaker.url %}<a href="{{ speaker.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
-				{{ speaker.name }}
-			{%if speaker.url %}</a>{% endif %}
-			{% unless forloop.last %} &amp; {% endunless -%}
-		{%- endif -%}
-	{% endfor %}
-	</h3>
-	{{ content | remove_first: page.excerpt | markdownify }}
-</section>{% endif %}
-
-{% if page.time %}
-<time class="conference_time" datetime="{{ page.time }}">{{ page.time | date_to_string: "ordinal", "US" | prepend: "Conference scheduled for " }}</time>
+	<h3 class="conference_speakers"> About {%if speaker.speaker_url %}<a href="{{ speaker.speaker_url }}" target="_blank" rel="noopener noreferrer">{% endif %} {{ speaker.name | append: ":" }} {%if speaker.speaker_url %}</a>{% endif %} </h3>
+	{{ speaker.content | markdownify }}
+</section>
 {% endif %}
+{% endfor %}
 
 <span class="conference-back"><a href="{{ page.year | prepend: "/" | prepend: page.collection | absolute_url }}">{{ page.year | append: "&nbsp;IdeaWave" }}</a></span>

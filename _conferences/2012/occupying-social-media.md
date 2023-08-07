@@ -4,10 +4,9 @@ title: "Occupying Social Media"
 year: "2012"
 backup: false
 speakers:
-- name: "Lorraine 'raincoaster' Murphy"
-  url: "http://raincoaster.com/"
+- "lorraine-murphy"
 from: https://web.archive.org/web/20210413200729/https://www.ideawave.ca/2012-conference/occupying-social-media
-excerpt_separator: "<!--about-->"
+time: 20120225T12:00-06
 ---
 
 Social media and the Occupy Movement: how has the nature of social media
@@ -18,13 +17,3 @@ in communications, how do we avoid becoming a digital Tower of Babel,
 or an archipelago of different platform loyalists?
 
 What is the future of the Occupy movement online?
-
-<!--about-->
-
-Bio: Lorraine “raincoaster” Murphy is founder of raincoaster media,
-specializing in transformative social media training, as well as President
-Emeritus of Social Media Club of Vancouver, and has been a professional
-blogger and social media trainer since 2002. She has been very involved in the
-Occupy movement, both online and at Occupy Vancouver. She’s a contributing
-reporter on [http://dailydot.com](http://dailydot.com/)
-
