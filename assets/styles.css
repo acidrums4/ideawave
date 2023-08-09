@@ -464,6 +464,7 @@ article>blockquote,
 article>p+p { margin-top: 1em }
 
 article>hr { margin: 20px 0 }
+article img { max-width: 100% }
 
 article>iframe {
 	display: block;

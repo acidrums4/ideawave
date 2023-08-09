@@ -1,6 +1,6 @@
 ---
 layout: "conference"
-title: "Born to be Worthless:The High Value of Low Self Esteem"
+title: "Born to be Worthless: The High Value of Low Self Esteem"
 year: "2011"
 backup: false
 speakers:

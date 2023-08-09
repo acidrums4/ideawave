@@ -1,6 +1,6 @@
 ---
 layout: "conference"
-title: "My language and culture are terminal --- will the plug be pulled?"
+title: "My language and culture are terminal - will the plug be pulled?"
 year: "2012"
 backup: false
 speakers:
