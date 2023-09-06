@@ -1,6 +1,6 @@
 {% assign sorted_pages = site.pages | sort: "order" | where: "dir", "/" | where: "menu", true %}
 <ul>{% for item in sorted_pages %}
 	<li>
-		<a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | absolute_url | remove: ".html" }}">{{ item.desc }}</a>
+		<a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | absolute_url }}">{{ item.desc }}</a>
 	</li>{% endfor %}
 </ul>

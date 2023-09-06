@@ -40,4 +40,4 @@ layout: default
 {% endif %}
 {% endfor %}
 
-<span class="conference-back"><a href="{{ page.year | prepend: "/" | prepend: page.collection | absolute_url }}">{{ page.year | append: "&nbsp;IdeaWave" }}</a></span>
+<span class="conference-back"><a href="{{ page.year | prepend: "/" | prepend: page.collection | append: ".html" | absolute_url }}">{{ page.year | append: "&nbsp;IdeaWave" }}</a></span>

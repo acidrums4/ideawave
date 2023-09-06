@@ -7,6 +7,7 @@ layout: none
     { {% capture speakers %}{% for speaker_loop in conference.speakers %}{% assign speaker = site.speakers | where: "speaker", speaker_loop | first %}{{ speaker.name }}{% endfor %}{% endcapture %}
 			
       "title"    : "{{ conference.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ conference.url }}",
       "meta"     : "{{ speakers | join: ', ' }}",
       "date"     : "{{ conference.date | date-to_string: 'ordinal', 'US' }}",
       "type"     : "conference"

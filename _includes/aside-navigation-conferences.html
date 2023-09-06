@@ -2,7 +2,7 @@
 {% for item in sorted_conferences reversed %}
 	<li>
 		{% assign pageurl = item.title | prepend: "/conferences/" | append: ".html" %}
-		<a {% if page.url == pageurl %}class="active"{% endif %} href="{{ "/conferences/" | absolute_url}}{{ item.title }}">{{ item.title }} IdeaWave</a>
+		<a {% if page.url == pageurl %}class="active"{% endif %} href="{{ "/conferences/" | absolute_url }}{{ item.title | append: ".html" }}">{{ item.title }} IdeaWave</a>
 	</li>
 {% endfor %}
 </ul>

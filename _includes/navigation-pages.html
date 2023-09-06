@@ -2,7 +2,7 @@
 <nav role="navigation" aria-label="footer menu">
 	<ul>{% for item in sorted_pages %}
 		<li>
-			<a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | absolute_url | remove: ".html" }}">{{ item.title }}</a>
+			<a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | absolute_url }}">{{ item.title }}</a>
 		</li>{% endfor %}
 	</ul>
 </nav>
